@@ -10,19 +10,19 @@ import (
 
 // The Resident data type
 type Resident struct {
-	residentID int
-	firstname string
-	lastname string
-	rol []string 			// resident rank order list
-	matchedProgram string	// will be "" for unmatched resident
+	residentID     int
+	firstname      string
+	lastname       string
+	rol            []string // resident rank order list
+	matchedProgram string   // will be "" for unmatched resident
 }
 
 // The Program data type
 type Program struct {
-	programID string
+	programID  string
 	name       string
-	nPositions  int 		// number of positions available (quota)
-	rol []int  				// program rank order list
+	nPositions int   // number of positions available (quota)
+	rol        []int // program rank order list
 	// TO ADD: a data structure for the selected resident IDs
 }
 
@@ -52,8 +52,8 @@ func parseIntRol(s string) []int {
 	parts := strings.Split(s, ",")
 	var ints []int
 	for _, part := range parts {
-		pid,_:= strconv.Atoi(strings.TrimSpace(part))
-		ints= append(ints,pid) 
+		pid, _ := strconv.Atoi(strings.TrimSpace(part))
+		ints = append(ints, pid)
 	}
 	return ints
 }
@@ -98,10 +98,10 @@ func ReadResidentsCSV(filename string) (map[int]*Resident, error) {
 		}
 
 		residents[id] = &Resident{
-			residentID:        id,
-			firstname: record[1],
-			lastname:  record[2],
-			rol:     parseRol(record[3]),
+			residentID:     id,
+			firstname:      record[1],
+			lastname:       record[2],
+			rol:            parseRol(record[3]),
 			matchedProgram: "",
 		}
 	}
@@ -145,12 +145,12 @@ func ReadProgramsCSV(filename string) (map[string]*Program, error) {
 		}
 
 		programs[record[0]] = &Program{
-			programID: record[0],
-			name: record[1],
-			nPositions:  np,
-			rol:     parseIntRol(record[3]),
+			programID:  record[0],
+			name:       record[1],
+			nPositions: np,
+			rol:        parseIntRol(record[3]),
 		}
-		
+
 	}
 
 	return programs, nil
@@ -159,7 +159,7 @@ func ReadProgramsCSV(filename string) (map[string]*Program, error) {
 // Example usage
 func main() {
 
-    // read residents
+	// read residents
 	residents, err := ReadResidentsCSV("residents4000.csv")
 	if err != nil {
 		fmt.Println("Error:", err)
@@ -169,7 +169,7 @@ func main() {
 	for _, p := range residents {
 		fmt.Printf("ID: %d, Name: %s %s, Rol: %v\n", p.residentID, p.firstname, p.lastname, p.rol)
 	}
-	
+
 	programs, err := ReadProgramsCSV("programs4000.csv")
 	if err != nil {
 		fmt.Println("Error:", err)
@@ -180,5 +180,5 @@ func main() {
 		fmt.Printf("ID: %s, Name: %s, Number of pos: %d, Number of applicants: %d\n", p.programID, p.name, p.nPositions, len(p.rol))
 	}
 
-    fmt.Printf("\nNMD: %v",programs["NMD"])
+	fmt.Printf("\nNMD: %v", programs["NMD"])
 }
