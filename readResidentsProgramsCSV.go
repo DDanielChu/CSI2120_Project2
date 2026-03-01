@@ -401,7 +401,7 @@ func evaluate(resId int, progId string, residents map[int]*Resident, programs ma
 		return
 	}
 
-	// lock before touching shared data
+	// lock before changing shared data
 	mu.Lock()
 	displacedId, wasDisplaced := prog.selectedResidents.push(res, prog)
 	mu.Unlock()
@@ -415,10 +415,17 @@ func evaluate(resId int, progId string, residents map[int]*Resident, programs ma
 		wg.Add(1)
 		go offer(displacedId, residents, programs, wg)
 
-	} else if res.matchedProgram != progId {
-		// didnt add the resident
-		wg.Add(1)
-		go offer(resId, residents, programs, wg)
+	} else {
+		// check inside lock
+		mu.Lock()
+		alreadyMatched := res.matchedProgram == progId
+		mu.Unlock()
+
+		if !alreadyMatched {
+			// didnt add resident
+			wg.Add(1)
+			go offer(resId, residents, programs, wg)
+		}
 	}
 	// if push returned false but did add the resident, matchedProgram already set
 }
