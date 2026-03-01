@@ -4,6 +4,7 @@ import (
 	"encoding/csv"
 	"fmt"
 	"os"
+	"slices"
 	"strconv"
 	"strings"
 )
@@ -25,7 +26,141 @@ type Program struct {
 	nPositions int   // number of positions available (quota)
 	rol        []int // program rank order list
 	// TO ADD: a data structure for the selected resident IDs
+	selectedResidents Heap
 }
+
+type Heap struct {
+	theListHeap []int
+}
+
+func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
+
+	residentID := resident.residentID
+
+	if !slices.Contains(program.rol, residentID) {
+		return 0, false
+	}
+
+	//If there is available quota
+	if program.nPositions > len(h.theListHeap) {
+		currentIndex := len(h.theListHeap) + 1
+		var parent int
+		var worseRank int
+		for {
+			h.theListHeap = append(h.theListHeap, residentID)
+
+			parent = h.theListHeap[int((currentIndex-1)/2)]
+
+			worseRank = compareTwoRanks(parent, residentID, program.rol)
+
+			//if
+			if worseRank != parent {
+				h.theListHeap[currentIndex] = parent
+				currentIndex = int((currentIndex - 1) / 2)
+				h.theListHeap[currentIndex] = residentID
+			} else {
+				break
+			}
+
+		}
+
+		resident.matchedProgram = program.programID
+
+		return 0, false
+	} else {
+		currentLowestResident := h.theListHeap[0]
+		currentLowestResident = compareTwoRanks(currentLowestResident, residentID, program.rol)
+
+		//The lowest id is the previous top of the heap
+		//-------------------------------------------MAKE SURE TO CHANGE THE MATCHED PROGRAM FOR THIS
+		if currentLowestResident != residentID {
+			h.theListHeap[0] = residentID
+
+			return currentLowestResident, true
+		}
+
+		return 0, false
+
+	}
+
+}
+
+func compareTwoRanks(residentID1 int, residentID2 int, programRol []int) int {
+	for _, value := range programRol {
+		if residentID1 == value {
+			return residentID2
+		}
+
+		if residentID2 == value {
+			return residentID1
+		}
+
+	}
+
+	return 0
+
+}
+
+func (h *Heap) pop(program *Program) int {
+
+	if len(h.theListHeap) == 0 {
+		return 0
+	}
+
+	temp := h.theListHeap[0]
+	currentSize := len(h.theListHeap)
+	h.theListHeap[0] = h.theListHeap[currentSize-1]
+	h.theListHeap[currentSize-1] = temp
+
+	currentSize = currentSize - 1
+
+	newRoot := h.theListHeap[0]
+
+	currentIndex := 0
+	var leftIndex int
+	var rightIndex int
+	var smallest int
+
+	for {
+
+		leftIndex = currentIndex*2 + 1
+		rightIndex = currentIndex*2 + 2
+		smallest = newRoot
+
+		if leftIndex < currentSize && compareTwoRanks(h.theListHeap[leftIndex], smallest, program.rol) == h.theListHeap[leftIndex] {
+			smallest = leftIndex
+		}
+
+		//Whoever is the worse ranked resident, they will be compared to their parent to see if they need to
+		if rightIndex < currentSize && compareTwoRanks(h.theListHeap[rightIndex], smallest, program.rol) == h.theListHeap[rightIndex] {
+			smallest = rightIndex
+		}
+
+		if smallest == newRoot {
+			break
+		}
+
+		h.theListHeap[currentIndex], h.theListHeap[smallest] = h.theListHeap[smallest], h.theListHeap[currentIndex]
+
+		currentIndex = smallest
+
+	}
+
+	h.theListHeap = h.theListHeap[:len(h.theListHeap)-1]
+
+	return temp
+
+}
+
+func (h *Heap) peek() (int, bool) {
+	if len(h.theListHeap) == 0 {
+		return 0, false
+	}
+
+	return h.theListHeap[0], true
+}
+
+//--------------------------------------------------------------------------------------------------------------
 
 // Parse a resident's ROL
 func parseRol(s string) []string {
