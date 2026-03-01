@@ -42,15 +42,18 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 
 	//If there is available quota
 	if program.nPositions > len(h.theListHeap) {
-		currentIndex := len(h.theListHeap) + 1
+		currentIndex := len(h.theListHeap)
 		var parent int
 		var worseRank int
+		h.theListHeap = append(h.theListHeap, residentID)
+
 		for {
-			h.theListHeap = append(h.theListHeap, residentID)
 
 			parent = h.theListHeap[int((currentIndex-1)/2)]
 
 			worseRank = compareTwoRanks(parent, residentID, program.rol)
+
+			fmt.Print(currentIndex, ", ", worseRank, "\n")
 
 			//if
 			if worseRank != parent {
@@ -66,6 +69,7 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 		resident.matchedProgram = program.programID
 
 		return 0, false
+
 	} else {
 		currentLowestResident := h.theListHeap[0]
 		currentLowestResident = compareTwoRanks(currentLowestResident, residentID, program.rol)
@@ -77,6 +81,8 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 
 			return currentLowestResident, true
 		}
+
+		h.downHeap(0, program)
 
 		return 0, false
 
@@ -111,11 +117,19 @@ func (h *Heap) pop(program *Program) int {
 	h.theListHeap[0] = h.theListHeap[currentSize-1]
 	h.theListHeap[currentSize-1] = temp
 
-	currentSize = currentSize - 1
+	h.downHeap(0, program)
 
-	newRoot := h.theListHeap[0]
+	h.theListHeap = h.theListHeap[:len(h.theListHeap)-1]
 
-	currentIndex := 0
+	return temp
+
+}
+
+func (h *Heap) downHeap(currentIndex int, program *Program) {
+
+	currentSize := len(h.theListHeap) - 1
+
+	currentIndex = 0
 	var leftIndex int
 	var rightIndex int
 	var smallest int
@@ -124,18 +138,18 @@ func (h *Heap) pop(program *Program) int {
 
 		leftIndex = currentIndex*2 + 1
 		rightIndex = currentIndex*2 + 2
-		smallest = newRoot
+		smallest = currentIndex
 
-		if leftIndex < currentSize && compareTwoRanks(h.theListHeap[leftIndex], smallest, program.rol) == h.theListHeap[leftIndex] {
+		if leftIndex < currentSize && compareTwoRanks(h.theListHeap[leftIndex], h.theListHeap[smallest], program.rol) == h.theListHeap[leftIndex] {
 			smallest = leftIndex
 		}
 
 		//Whoever is the worse ranked resident, they will be compared to their parent to see if they need to
-		if rightIndex < currentSize && compareTwoRanks(h.theListHeap[rightIndex], smallest, program.rol) == h.theListHeap[rightIndex] {
+		if rightIndex < currentSize && compareTwoRanks(h.theListHeap[rightIndex], h.theListHeap[smallest], program.rol) == h.theListHeap[rightIndex] {
 			smallest = rightIndex
 		}
 
-		if smallest == newRoot {
+		if smallest == currentIndex {
 			break
 		}
 
@@ -144,10 +158,6 @@ func (h *Heap) pop(program *Program) int {
 		currentIndex = smallest
 
 	}
-
-	h.theListHeap = h.theListHeap[:len(h.theListHeap)-1]
-
-	return temp
 
 }
 
