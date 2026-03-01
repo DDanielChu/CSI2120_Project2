@@ -7,7 +7,11 @@ import (
 	"slices"
 	"strconv"
 	"strings"
+	"sync"
 )
+
+// REMOVE FOR SINGLE THREADED
+var mu sync.Mutex
 
 // The Resident data type
 type Resident struct {
@@ -292,6 +296,8 @@ func ReadProgramsCSV(filename string) (map[string]*Program, error) {
 	return programs, nil
 }
 
+// ------- SINGLE THREADED ----------- *Remove mutex line at top of code to use
+/*
 func offer(resId int, residents map[int]*Resident, programs map[string]*Program) {
 	res := residents[resId]
 
@@ -339,6 +345,70 @@ func evaluate(resId int, progId string, residents map[int]*Resident, programs ma
 	} else if res.matchedProgram != progId {
 		// didnt add the resident
 		offer(resId, residents, programs)
+	}
+	// if push returned false but did add the resident, matchedProgram already set
+}
+*/
+
+// -------------- MULTITHREADED VERSION -------------------------
+
+func offer(resId int, residents map[int]*Resident, programs map[string]*Program, wg *sync.WaitGroup) {
+	defer wg.Done()
+
+	res := residents[resId]
+
+	//If resident has exhausted programs on their list
+	if res.rolIndex >= len(res.rol) {
+		res.matchedProgram = ""
+		return
+	}
+
+	// Move to next program on residents list
+	progId := res.rol[res.rolIndex]
+	res.rolIndex++
+
+	evaluate(resId, progId, residents, programs, wg)
+}
+
+func evaluate(resId int, progId string, residents map[int]*Resident, programs map[string]*Program, wg *sync.WaitGroup) {
+
+	res := residents[resId]
+	prog := programs[progId]
+
+	// check if prog ranked this resident
+	rankedPos := -1
+	for i, id := range prog.rol {
+		if id == resId {
+			rankedPos = i
+			break
+		}
+	}
+
+	// prog didnt rank this res, try next program
+	if rankedPos == -1 {
+		wg.Add(1)
+		go offer(resId, residents, programs, wg)
+		return
+	}
+
+	// lock before touching shared data
+	mu.Lock()
+	displacedId, wasDisplaced := prog.selectedResidents.push(res, prog)
+	mu.Unlock()
+
+	// new resident accepted, removed res tries next program
+	if wasDisplaced {
+		mu.Lock()
+		res.matchedProgram = progId
+		residents[displacedId].matchedProgram = ""
+		mu.Unlock()
+		wg.Add(1)
+		go offer(displacedId, residents, programs, wg)
+
+	} else if res.matchedProgram != progId {
+		// didnt add the resident
+		wg.Add(1)
+		go offer(resId, residents, programs, wg)
 	}
 	// if push returned false but did add the resident, matchedProgram already set
 }
