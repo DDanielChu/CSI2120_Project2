@@ -16,6 +16,7 @@ type Resident struct {
 	lastname       string
 	rol            []string // resident rank order list
 	matchedProgram string   // will be "" for unmatched resident
+	rolIndex       int
 }
 
 // The Program data type
@@ -299,6 +300,57 @@ func ReadProgramsCSV(filename string) (map[string]*Program, error) {
 	}
 
 	return programs, nil
+}
+
+func offer(resId int, residents map[int]*Resident, programs map[string]*Program) {
+	res := residents[resId]
+
+	//If resident has exhausted programs on their list
+	if res.rolIndex >= len(res.rol) {
+		res.matchedProgram = ""
+		return
+	}
+
+	// Move to next program on residents list
+	progId := res.rol[res.rolIndex]
+	res.rolIndex++
+
+	evaluate(resId, progId, residents, programs)
+}
+
+func evaluate(resId int, progId string, residents map[int]*Resident, programs map[string]*Program) {
+
+	res := residents[resId]
+	prog := programs[progId]
+
+	// check if prog ranked this resident
+	rankedPos := -1
+	for i, id := range prog.rol {
+		if id == resId {
+			rankedPos = i
+			break
+		}
+	}
+
+	// prog didnt rank this res, try next program
+	if rankedPos == -1 {
+		offer(resId, residents, programs)
+		return
+	}
+
+	displacedId, wasDisplaced := prog.selectedResidents.push(res, prog)
+
+	if wasDisplaced {
+		// new resident accepted, removed res tries next program
+		res.matchedProgram = progId
+		residents[displacedId].matchedProgram = ""
+		offer(displacedId, residents, programs)
+
+	} else if res.matchedProgram != progId {
+		// didnt add the resident
+		offer(resId, residents, programs)
+	}
+	// if push returned false but did add the resident, matchedProgram already set
 }
 
 // Example usage
