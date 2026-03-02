@@ -475,6 +475,9 @@ func main() {
 	}
 
 	sort.Slice(residentList, func(i, j int) bool {
+		if residentList[i].lastname == residentList[j].lastname {
+			return residentList[i].firstname < residentList[j].firstname
+		}
 		return residentList[i].lastname < residentList[j].lastname
 	})
 
