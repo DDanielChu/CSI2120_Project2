@@ -393,7 +393,7 @@ func evaluate(resId int, progId string, residents map[int]*Resident, programs ma
 func main() {
 
 	// read residents
-	residents, err := ReadResidentsCSV("residents4000.csv")
+	residents, err := ReadResidentsCSV("residentSmall.csv")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return
@@ -405,7 +405,7 @@ func main() {
 		}
 	*/
 
-	programs, err := ReadProgramsCSV("programs4000.csv")
+	programs, err := ReadProgramsCSV("programSmall.csv")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return

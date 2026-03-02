@@ -1135,8 +1135,8 @@ Felix, Cesar, 87755749, FMD, Family Medicine
 Felix, Clarissa, 19487940, ANT, Anesthesiology
 Ferguson, Braelyn, 67643555, XXX, NOT_MATCHED
 Ferguson, Caspian, 21832446, FMD, Family Medicine
-Ferguson, Finn, 81184566, FMD, Family Medicine
 Ferguson, Finn, 76365420, XXX, NOT_MATCHED
+Ferguson, Finn, 81184566, FMD, Family Medicine
 Ferguson, Mathias, 23270930, NRO, Neurology
 Fernandez, Zane, 50348971, XXX, NOT_MATCHED
 Fields, Brantley, 19141247, FMD, Family Medicine
@@ -2750,8 +2750,8 @@ Owen, Marina, 85692240, PSY, Psychiatry
 Owen, Serenity, 63744745, FMD, Family Medicine
 Owens, Ansley, 22297007, PSY, Psychiatry
 Owens, Leandro, 68030754, PSU, Plastic Surgery
-Owens, Remy, 80256445, IMD, Internal Medicine
 Owens, Remy, 70858555, IMD, Internal Medicine
+Owens, Remy, 80256445, IMD, Internal Medicine
 Pace, Brody, 95180731, FMD, Family Medicine
 Pace, Hezekiah, 71400849, FMD, Family Medicine
 Pace, Jabari, 50135503, FMD, Family Medicine
@@ -4002,3 +4002,4 @@ Zuniga, Raiden, 43478500, IMD, Internal Medicine
 
 Number of unmatched residents: 334
 Number of positions available: 39
+Execution time: 98.9911ms
