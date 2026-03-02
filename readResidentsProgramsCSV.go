@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"slices"
+	"sort"
 	"strconv"
 	"strings"
 	"sync"
@@ -57,8 +58,6 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 			parent = h.theListHeap[int((currentIndex-1)/2)]
 
 			worseRank = compareTwoRanks(parent, residentID, program.rol)
-
-			fmt.Print(currentIndex, ", ", worseRank, "\n")
 
 			//if
 			if worseRank != parent {
@@ -440,9 +439,11 @@ func main() {
 		return
 	}
 
-	for _, p := range residents {
-		fmt.Printf("ID: %d, Name: %s %s, Rol: %v\n", p.residentID, p.firstname, p.lastname, p.rol)
-	}
+	/*
+		for _, p := range residents {
+			fmt.Printf("ID: %d, Name: %s %s, Rol: %v\n", p.residentID, p.firstname, p.lastname, p.rol)
+		}
+	*/
 
 	programs, err := ReadProgramsCSV("programs4000.csv")
 	if err != nil {
@@ -450,9 +451,63 @@ func main() {
 		return
 	}
 
-	for _, p := range programs {
-		fmt.Printf("ID: %s, Name: %s, Number of pos: %d, Number of applicants: %d\n", p.programID, p.name, p.nPositions, len(p.rol))
+	/*
+		for _, p := range programs {
+			fmt.Printf("ID: %s, Name: %s, Number of pos: %d, Number of applicants: %d\n", p.programID, p.name, p.nPositions, len(p.rol))
+		}
+
+		fmt.Printf("\nNMD: %v", programs["NMD"])
+	*/
+
+	var wg sync.WaitGroup
+
+	for value := range residents {
+		wg.Add(1)
+		go offer(value, residents, programs, &wg)
 	}
 
-	fmt.Printf("\nNMD: %v", programs["NMD"])
+	wg.Wait()
+
+	// sort alphabetically
+	var residentList []*Resident
+	for _, r := range residents {
+		residentList = append(residentList, r)
+	}
+
+	sort.Slice(residentList, func(i, j int) bool {
+		return residentList[i].lastname < residentList[j].lastname
+	})
+
+	fmt.Print("----------------------------------------------------\n")
+	fmt.Println("lastname, firstname, residentID, programID, name")
+
+	unmatchedCounter := 0
+	for _, resident := range residentList {
+
+		fmt.Printf("%s, ", resident.lastname)
+		fmt.Printf("%s, ", resident.firstname)
+		fmt.Printf("%d, ", resident.residentID)
+
+		if resident.matchedProgram == "" {
+			fmt.Printf("XXX, ")
+			fmt.Printf("NOT_MATCHED")
+			unmatchedCounter++
+		} else {
+			p := programs[resident.matchedProgram]
+			fmt.Printf("%s, ", p.programID)
+			fmt.Printf("%s", p.name)
+		}
+
+		fmt.Println()
+	}
+
+	positionsLeft := 0
+	for i := range programs {
+		program := programs[i]
+		positionsLeft += program.nPositions - len(program.selectedResidents.theListHeap)
+	}
+
+	fmt.Printf("\nNumber of unmatched residents: %d\n", unmatchedCounter)
+	fmt.Printf("Number of positions available: %d", positionsLeft)
+
 }
