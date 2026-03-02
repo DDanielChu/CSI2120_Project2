@@ -1,3 +1,8 @@
+/*
+Student Names: Daniel Chu, Joshua Vanderlaan
+Student Numbers: 300430501, 300430437
+*/
+
 package main
 
 import (

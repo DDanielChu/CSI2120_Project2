@@ -388,8 +388,14 @@ func main() {
 		fmt.Printf("\nNMD: %v", programs["NMD"])
 	*/
 
-	for value := range residents {
-		offer(value, residents, programs)
+	var ids []int
+	for id := range residents {
+		ids = append(ids, id)
+	}
+	sort.Ints(ids)
+
+	for _, id := range ids {
+		offer(id, residents, programs)
 	}
 
 	// sort alphabetically
