@@ -1,4 +1,4 @@
-Goodman, Kaylani, 47240889, XXX, NOT_MATCHED
+oodman, Kaylani, 47240889, XXX, NOT_MATCHED
 Goodman, Killian, 39325718, XXX, NOT_MATCHED
 Goodman, Koa, 14718189, NRS, Neurosurgery
 Goodman, Lee, 56443510, FMD, Family Medicine
@@ -68,8 +68,8 @@ Gordon, Blaise, 47600850, EMD, Emergency Medicine
 Gordon, Caroline, 97698113, XXX, NOT_MATCHED
 Gordon, Carolyn, 67981192, FMD, Family Medicine
 Gordon, Catherine, 61903938, FMD, Family Medicine
-Gordon, Clyde, 64434990, XXX, NOT_MATCHED
 Gordon, Clyde, 68203169, FMD, Family Medicine
+Gordon, Clyde, 64434990, XXX, NOT_MATCHED
 Gordon, Colt, 67044133, FMD, Family Medicine
 Gordon, Connor, 18483230, FMD, Family Medicine
 Gordon, Daleyza, 65587799, XXX, NOT_MATCHED
@@ -82,8 +82,8 @@ Gordon, Georgia, 77550551, XXX, NOT_MATCHED
 Gordon, Hallie, 61876511, FMD, Family Medicine
 Gordon, Hayley, 21121400, OBG, Obstetrics and Gynecology
 Gordon, Hendrix, 24788921, FMD, Family Medicine
-Gordon, Isabela, 14574511, FMD, Family Medicine
 Gordon, Isabela, 37062402, GSU, General Surgery
+Gordon, Isabela, 14574511, FMD, Family Medicine
 Gordon, Isabella, 15496752, FMD, Family Medicine
 Gordon, Ivy, 97746200, FMD, Family Medicine
 Gordon, James, 55342904, FMD, Family Medicine
@@ -362,8 +362,8 @@ Green, Annalise, 67656111, XXX, NOT_MATCHED
 Green, Anya, 92799311, FMD, Family Medicine
 Green, Asher, 71506473, PMR, Physical Medicine & Rehabilitation
 Green, August, 13212279, XXX, NOT_MATCHED
-Green, Ayan, 13700847, FMD, Family Medicine
 Green, Ayan, 96023789, FMD, Family Medicine
+Green, Ayan, 13700847, FMD, Family Medicine
 Green, Bethany, 73809173, EMD, Emergency Medicine
 Green, Branson, 34215358, PSY, Psychiatry
 Green, Cason, 44625428, XXX, NOT_MATCHED
@@ -540,8 +540,8 @@ Greer, Zainab, 89174373, FMD, Family Medicine
 Gregory, Ahmad, 23676627, DRA, Diagnostic Radiology
 Gregory, Alivia, 24264216, EMD, Emergency Medicine
 Gregory, Amira, 83272687, FMD, Family Medicine
-Gregory, Andrew, 21684504, XXX, NOT_MATCHED
 Gregory, Andrew, 35706477, IMD, Internal Medicine
+Gregory, Andrew, 21684504, XXX, NOT_MATCHED
 Gregory, Ariel, 96935578, EMD, Emergency Medicine
 Gregory, Aspyn, 70760016, OPH, Ophthalmology
 Gregory, Baylee, 70416500, XXX, NOT_MATCHED
@@ -650,8 +650,8 @@ Griffith, Malani, 25295410, IMD, Internal Medicine
 Griffith, Marleigh, 41420864, DMP, Diagnostic and Molecular Pathology
 Griffith, Marshall, 99402301, FMD, Family Medicine
 Griffith, Meghan, 36123149, ORS, Orthopedic Surgery
-Griffith, Mohamed, 57347103, URO, Urology
 Griffith, Mohamed, 78585510, FMD, Family Medicine
+Griffith, Mohamed, 57347103, URO, Urology
 Griffith, Mohammad, 61341153, ORS, Orthopedic Surgery
 Griffith, Naya, 75050409, FMD, Family Medicine
 Griffith, Paislee, 99133226, XXX, NOT_MATCHED
@@ -698,8 +698,8 @@ Grimes, Jase, 27547850, IMD, Internal Medicine
 Grimes, Jasmine, 85829416, XXX, NOT_MATCHED
 Grimes, Jay, 65628958, XXX, NOT_MATCHED
 Grimes, Jefferson, 68003433, IMD, Internal Medicine
-Grimes, Jorge, 65350845, FMD, Family Medicine
 Grimes, Jorge, 44284978, OTO, Otolaryngology - Head and Neck Surgery
+Grimes, Jorge, 65350845, FMD, Family Medicine
 Grimes, Kaleb, 33245193, OBG, Obstetrics and Gynecology
 Grimes, Kyree, 76706925, PDT, Pediatrics
 Grimes, Leilani, 38158682, XXX, NOT_MATCHED
@@ -712,8 +712,8 @@ Grimes, Niko, 48948598, ANT, Anesthesiology
 Grimes, Noelle, 45173840, IMD, Internal Medicine
 Grimes, Oaklynn, 48953537, IMD, Internal Medicine
 Grimes, Peyton, 68529307, XXX, NOT_MATCHED
-Grimes, Phillip, 51379700, FMD, Family Medicine
 Grimes, Phillip, 30608853, DMP, Diagnostic and Molecular Pathology
+Grimes, Phillip, 51379700, FMD, Family Medicine
 Grimes, Porter, 11531701, GSU, General Surgery
 Grimes, Titus, 22877269, IMD, Internal Medicine
 Grimes, Tripp, 68052601, XXX, NOT_MATCHED
@@ -858,8 +858,8 @@ Guerrero, Nicolas, 91399703, ORS, Orthopedic Surgery
 Guerrero, Poppy, 38576353, PMR, Physical Medicine & Rehabilitation
 Guerrero, Rayan, 96179259, EMD, Emergency Medicine
 Guerrero, Reina, 56364362, FMD, Family Medicine
-Guerrero, Sage, 37598937, XXX, NOT_MATCHED
 Guerrero, Sage, 47799993, XXX, NOT_MATCHED
+Guerrero, Sage, 37598937, XXX, NOT_MATCHED
 Guerrero, Stephanie, 97203066, IMD, Internal Medicine
 Guerrero, Teresa, 69729526, IMD, Internal Medicine
 Guerrero, Teresa, 42958268, XXX, NOT_MATCHED
@@ -1264,8 +1264,8 @@ Hall, Paloma, 75813003, FMD, Family Medicine
 Hall, Rebekah, 49417621, FMD, Family Medicine
 Hall, Reign, 76546477, MGG, Medical Genetics and Genomics
 Hall, Ruben, 94074080, FMD, Family Medicine
-Hall, Sierra, 55173010, FMD, Family Medicine
 Hall, Sierra, 20894354, GSU, General Surgery
+Hall, Sierra, 55173010, FMD, Family Medicine
 Hall, Trace, 90812330, FMD, Family Medicine
 Hall, Violette, 15960036, FMD, Family Medicine
 Hall, Vivienne, 46472852, XXX, NOT_MATCHED
@@ -1387,8 +1387,8 @@ Hampton, Elisa, 61847304, IMD, Internal Medicine
 Hampton, Elliott, 47211279, FMD, Family Medicine
 Hampton, Emmie, 47969666, EMD, Emergency Medicine
 Hampton, Ernesto, 58393892, URO, Urology
-Hampton, Fabian, 67472235, PSY, Psychiatry
 Hampton, Fabian, 66489250, IMD, Internal Medicine
+Hampton, Fabian, 67472235, PSY, Psychiatry
 Hampton, Gideon, 17126986, URO, Urology
 Hampton, Gracelynn, 84513726, XXX, NOT_MATCHED
 Hampton, Hamza, 60544715, PSY, Psychiatry
@@ -1410,8 +1410,8 @@ Hampton, Maxton, 10755433, FMD, Family Medicine
 Hampton, Maxton, 73086764, FMD, Family Medicine
 Hampton, Milana, 11048666, ANT, Anesthesiology
 Hampton, Moshe, 26712505, FMD, Family Medicine
-Hampton, Nala, 23649621, IMD, Internal Medicine
 Hampton, Nala, 18728657, IMD, Internal Medicine
+Hampton, Nala, 23649621, IMD, Internal Medicine
 Hampton, Nico, 84050622, FMD, Family Medicine
 Hampton, Otis, 33772197, ANT, Anesthesiology
 Hampton, Pablo, 44378152, IMD, Internal Medicine
@@ -1613,8 +1613,8 @@ Hanson, Damon, 16508451, FMD, Family Medicine
 Hanson, Edgar, 96342708, FMD, Family Medicine
 Hanson, Ellianna, 99535045, XXX, NOT_MATCHED
 Hanson, Emmalynn, 98902036, PSY, Psychiatry
-Hanson, Hazel, 10361685, FMD, Family Medicine
 Hanson, Hazel, 71661139, PSY, Psychiatry
+Hanson, Hazel, 10361685, FMD, Family Medicine
 Hanson, Hudson, 44218565, PDT, Pediatrics
 Hanson, Isla, 33169839, IMD, Internal Medicine
 Hanson, Itzel, 34904358, XXX, NOT_MATCHED
@@ -1842,8 +1842,8 @@ Harmon, Nyla, 14266980, ORS, Orthopedic Surgery
 Harmon, Rafael, 78840364, IMD, Internal Medicine
 Harmon, River, 16397140, FMD, Family Medicine
 Harmon, Ruby, 96066280, XXX, NOT_MATCHED
-Harmon, Saylor, 84026688, ANT, Anesthesiology
 Harmon, Saylor, 21078289, XXX, NOT_MATCHED
+Harmon, Saylor, 84026688, ANT, Anesthesiology
 Harmon, Sincere, 60156257, PSY, Psychiatry
 Harmon, Truett, 99210104, GSU, General Surgery
 Harper, Adalynn, 70317843, XXX, NOT_MATCHED
@@ -1862,8 +1862,8 @@ Harper, Brock, 49635397, XXX, NOT_MATCHED
 Harper, Brycen, 88379925, FMD, Family Medicine
 Harper, Camryn, 99429001, FMD, Family Medicine
 Harper, Celeste, 44313643, PDT, Pediatrics
-Harper, Charlee, 21788254, ORS, Orthopedic Surgery
 Harper, Charlee, 27880609, PSY, Psychiatry
+Harper, Charlee, 21788254, ORS, Orthopedic Surgery
 Harper, Chaya, 92897105, XXX, NOT_MATCHED
 Harper, Clark, 24262052, FMD, Family Medicine
 Harper, Cullen, 62122681, XXX, NOT_MATCHED
@@ -2034,19 +2034,19 @@ Harrison, Branson, 81021882, FMD, Family Medicine
 Harrison, Brody, 25715972, FMD, Family Medicine
 Harrison, Bruno, 70949830, NRO, Neurology
 Harrison, Callum, 82762188, DRA, Diagnostic Radiology
-Harrison, Capri, 12930250, PDT, Pediatrics
 Harrison, Capri, 70281613, FMD, Family Medicine
+Harrison, Capri, 12930250, PDT, Pediatrics
 Harrison, Cason, 44245060, FMD, Family Medicine
 Harrison, Collin, 94715114, FMD, Family Medicine
 Harrison, Elian, 76085938, FMD, Family Medicine
 Harrison, Emory, 61070015, FMD, Family Medicine
-Harrison, Fabian, 49192821, XXX, NOT_MATCHED
 Harrison, Fabian, 64183054, ANT, Anesthesiology
+Harrison, Fabian, 49192821, XXX, NOT_MATCHED
 Harrison, Gianna, 92019568, CSU, Cardiac Surgery
 Harrison, Grant, 66254465, FMD, Family Medicine
 Harrison, Hana, 46589892, FMD, Family Medicine
-Harrison, Harley, 55585735, IMD, Internal Medicine
 Harrison, Harley, 29053255, FMD, Family Medicine
+Harrison, Harley, 55585735, IMD, Internal Medicine
 Harrison, Joseph, 79555548, FMD, Family Medicine
 Harrison, Julius, 17134796, FMD, Family Medicine
 Harrison, Keaton, 91886688, FMD, Family Medicine
@@ -2135,8 +2135,8 @@ Hartman, Emilia, 53963112, OPH, Ophthalmology
 Hartman, Gabriel, 13210268, FMD, Family Medicine
 Hartman, Giuliana, 61758818, FMD, Family Medicine
 Hartman, Hailey, 79488510, XXX, NOT_MATCHED
-Hartman, Hallie, 34440122, FMD, Family Medicine
 Hartman, Hallie, 60911140, FMD, Family Medicine
+Hartman, Hallie, 34440122, FMD, Family Medicine
 Hartman, Heaven, 29534062, XXX, NOT_MATCHED
 Hartman, Henry, 59099907, FMD, Family Medicine
 Hartman, Holden, 38751125, ANT, Anesthesiology
@@ -2203,15 +2203,15 @@ Harvey, Tate, 59078763, IMD, Internal Medicine
 Harvey, Tinsley, 25854036, XXX, NOT_MATCHED
 Harvey, Walker, 11201620, XXX, NOT_MATCHED
 Harvey, Willie, 85344081, XXX, NOT_MATCHED
-Harvey, Zeke, 42735794, IMD, Internal Medicine
 Harvey, Zeke, 95188516, FMD, Family Medicine
+Harvey, Zeke, 42735794, IMD, Internal Medicine
 Harvey, Zelda, 65389029, FMD, Family Medicine
 Harvey, Zoie, 89066509, FMD, Family Medicine
 Hawkins, Abel, 77856499, PSY, Psychiatry
 Hawkins, Addyson, 46183508, FMD, Family Medicine
 Hawkins, Adrian, 82558659, XXX, NOT_MATCHED
-Hawkins, Alyssa, 77088763, XXX, NOT_MATCHED
 Hawkins, Alyssa, 38930186, FMD, Family Medicine
+Hawkins, Alyssa, 77088763, XXX, NOT_MATCHED
 Hawkins, Antonella, 71927372, IMD, Internal Medicine
 Hawkins, Bailey, 22542019, OPH, Ophthalmology
 Hawkins, Braelyn, 46492396, XXX, NOT_MATCHED
@@ -2362,8 +2362,8 @@ Haynes, Elodie, 98077236, XXX, NOT_MATCHED
 Haynes, Emerie, 82041019, FMD, Family Medicine
 Haynes, Enoch, 59512556, XXX, NOT_MATCHED
 Haynes, Frankie, 44729832, PSY, Psychiatry
-Haynes, Georgia, 63197760, FMD, Family Medicine
 Haynes, Georgia, 95127325, FMD, Family Medicine
+Haynes, Georgia, 63197760, FMD, Family Medicine
 Haynes, Gerald, 93845971, FMD, Family Medicine
 Haynes, Hugh, 77567140, XXX, NOT_MATCHED
 Haynes, Izabella, 44575554, FMD, Family Medicine
@@ -2405,8 +2405,8 @@ Heath, Ezequiel, 10922124, FMD, Family Medicine
 Heath, Gloria, 26992803, IMD, Internal Medicine
 Heath, Gunner, 88971082, IMD, Internal Medicine
 Heath, Haisley, 25432217, XXX, NOT_MATCHED
-Heath, Harper, 79667688, XXX, NOT_MATCHED
 Heath, Harper, 38553641, ORS, Orthopedic Surgery
+Heath, Harper, 79667688, XXX, NOT_MATCHED
 Heath, Harvey, 12430038, DMP, Diagnostic and Molecular Pathology
 Heath, Hazel, 83617239, IMD, Internal Medicine
 Heath, Idris, 55538068, IMD, Internal Medicine
@@ -2648,8 +2648,8 @@ Henry, Amir, 43958830, FMD, Family Medicine
 Henry, Anderson, 44022063, PDT, Pediatrics
 Henry, Ansley, 48388943, XXX, NOT_MATCHED
 Henry, Aviana, 94399064, FMD, Family Medicine
-Henry, Ayla, 60956981, XXX, NOT_MATCHED
 Henry, Ayla, 10236043, IMD, Internal Medicine
+Henry, Ayla, 60956981, XXX, NOT_MATCHED
 Henry, Barrett, 62028257, OPH, Ophthalmology
 Henry, Bo, 87874234, XXX, NOT_MATCHED
 Henry, Boden, 97357177, FMD, Family Medicine
@@ -2794,8 +2794,8 @@ Herman, Alison, 62647469, FMD, Family Medicine
 Herman, Alora, 45010891, XXX, NOT_MATCHED
 Herman, Ambrose, 45082559, IMD, Internal Medicine
 Herman, Annie, 64456290, XXX, NOT_MATCHED
-Herman, Augustus, 13918011, FMD, Family Medicine
 Herman, Augustus, 64335100, IMD, Internal Medicine
+Herman, Augustus, 13918011, FMD, Family Medicine
 Herman, Azalea, 19029945, FMD, Family Medicine
 Herman, Branson, 15254737, IMD, Internal Medicine
 Herman, Briar, 63402489, PDT, Pediatrics
@@ -2845,8 +2845,8 @@ Herman, Wells, 60955340, FMD, Family Medicine
 Herman, Wes, 77207800, IMD, Internal Medicine
 Herman, Zaria, 45617105, FMD, Family Medicine
 Hernandez, Adele, 37176446, IMD, Internal Medicine
-Hernandez, Alaric, 11785036, DRA, Diagnostic Radiology
 Hernandez, Alaric, 52915336, FMD, Family Medicine
+Hernandez, Alaric, 11785036, DRA, Diagnostic Radiology
 Hernandez, Alaya, 25790546, PSY, Psychiatry
 Hernandez, Allyson, 34009147, PSY, Psychiatry
 Hernandez, Amaia, 68571067, FMD, Family Medicine
@@ -2992,8 +2992,8 @@ Herring, Kaleb, 83991582, PSY, Psychiatry
 Herring, Kamryn, 22322449, ANT, Anesthesiology
 Herring, Kason, 36602446, PDT, Pediatrics
 Herring, Kaylee, 24381903, XXX, NOT_MATCHED
-Herring, Layton, 77253163, URO, Urology
 Herring, Layton, 59077921, XXX, NOT_MATCHED
+Herring, Layton, 77253163, URO, Urology
 Herring, Magnus, 94014535, GSU, General Surgery
 Herring, Margaret, 23841059, XXX, NOT_MATCHED
 Herring, Melody, 51273615, FMD, Family Medicine
@@ -3027,8 +3027,8 @@ Hess, Declan, 87355578, OBG, Obstetrics and Gynecology
 Hess, Denisse, 18537139, OBG, Obstetrics and Gynecology
 Hess, Emanuel, 35078665, FMD, Family Medicine
 Hess, Emersyn, 50158971, XXX, NOT_MATCHED
-Hess, Finn, 87547904, PMR, Physical Medicine & Rehabilitation
 Hess, Finn, 25757144, XXX, NOT_MATCHED
+Hess, Finn, 87547904, PMR, Physical Medicine & Rehabilitation
 Hess, Gerardo, 58892737, IMD, Internal Medicine
 Hess, Gracie, 36755593, GSU, General Surgery
 Hess, Grey, 50922474, FMD, Family Medicine
@@ -3191,8 +3191,8 @@ Hicks, Emory, 52056480, IMD, Internal Medicine
 Hicks, Ford, 91052159, FMD, Family Medicine
 Hicks, Gabriella, 28843179, FMD, Family Medicine
 Hicks, Gary, 22571989, FMD, Family Medicine
-Hicks, Gordon, 28273717, XXX, NOT_MATCHED
 Hicks, Gordon, 63814848, FMD, Family Medicine
+Hicks, Gordon, 28273717, XXX, NOT_MATCHED
 Hicks, Graham, 91148636, XXX, NOT_MATCHED
 Hicks, Harlow, 97130872, PDT, Pediatrics
 Hicks, Hassan, 22562524, FMD, Family Medicine
@@ -3225,8 +3225,8 @@ Hicks, Treasure, 36536599, FMD, Family Medicine
 Hicks, Vihaan, 13532002, PSY, Psychiatry
 Hicks, Vivienne, 38261427, DMP, Diagnostic and Molecular Pathology
 Hicks, Xavier, 33624983, XXX, NOT_MATCHED
-Higgins, Alfredo, 52808938, DRA, Diagnostic Radiology
 Higgins, Alfredo, 16822139, XXX, NOT_MATCHED
+Higgins, Alfredo, 52808938, DRA, Diagnostic Radiology
 Higgins, Alma, 20127036, XXX, NOT_MATCHED
 Higgins, Alvin, 16657731, XXX, NOT_MATCHED
 Higgins, Andrew, 87679864, FMD, Family Medicine
@@ -3288,8 +3288,8 @@ Hill, Kora, 45152753, XXX, NOT_MATCHED
 Hill, Landon, 10748049, IMD, Internal Medicine
 Hill, Lara, 89203994, PSY, Psychiatry
 Hill, Luca, 36444715, DMP, Diagnostic and Molecular Pathology
-Hill, Lyra, 53040623, FMD, Family Medicine
 Hill, Lyra, 50386666, EMD, Emergency Medicine
+Hill, Lyra, 53040623, FMD, Family Medicine
 Hill, Madison, 54468803, NRO, Neurology
 Hill, Marisol, 20784540, XXX, NOT_MATCHED
 Hill, Melanie, 74801887, XXX, NOT_MATCHED
@@ -3891,8 +3891,8 @@ Holmes, Weston, 85608305, XXX, NOT_MATCHED
 Holmes, Wilson, 38529997, XXX, NOT_MATCHED
 Holmes, Winter, 94036143, DRA, Diagnostic Radiology
 Holmes, Yamileth, 78131836, NMD, Nuclear Medicine
-Holt, Ada, 78682619, NRO, Neurology
 Holt, Ada, 25670768, GSU, General Surgery
+Holt, Ada, 78682619, NRO, Neurology
 Holt, Ada, 93637367, XXX, NOT_MATCHED
 Holt, Aileen, 12147934, FMD, Family Medicine
 Holt, Alayna, 43397328, XXX, NOT_MATCHED
@@ -4242,13 +4242,13 @@ Horton, Jaxon, 83464374, FMD, Family Medicine
 Horton, Jaylen, 20226347, ANT, Anesthesiology
 Horton, Jennifer, 17508719, FMD, Family Medicine
 Horton, Jesus, 46611469, PSY, Psychiatry
-Horton, Kairi, 68690365, FMD, Family Medicine
 Horton, Kairi, 96760538, EMD, Emergency Medicine
+Horton, Kairi, 68690365, FMD, Family Medicine
 Horton, Karson, 32705845, FMD, Family Medicine
 Horton, Kash, 82466477, FMD, Family Medicine
 Horton, Kaylee, 73868082, OBG, Obstetrics and Gynecology
-Horton, Killian, 38847505, XXX, NOT_MATCHED
 Horton, Killian, 86246256, FMD, Family Medicine
+Horton, Killian, 38847505, XXX, NOT_MATCHED
 Horton, Kinley, 46556649, FMD, Family Medicine
 Horton, Kyng, 27134628, XXX, NOT_MATCHED
 Horton, Lawrence, 71733920, FMD, Family Medicine
@@ -4375,8 +4375,8 @@ Howard, Dennis, 47249601, XXX, NOT_MATCHED
 Howard, Dorothy, 12169068, IMD, Internal Medicine
 Howard, Edwin, 99992713, XXX, NOT_MATCHED
 Howard, Eithan, 29678047, FMD, Family Medicine
-Howard, Elena, 54215764, XXX, NOT_MATCHED
 Howard, Elena, 54126514, IMD, Internal Medicine
+Howard, Elena, 54215764, XXX, NOT_MATCHED
 Howard, Elisha, 94715784, MMI, Medical Microbiology
 Howard, Elizabeth, 37872638, FMD, Family Medicine
 Howard, Estella, 40318547, FMD, Family Medicine
@@ -4637,8 +4637,8 @@ Huber, Kora, 75708559, IMD, Internal Medicine
 Huber, Landry, 83416759, ANT, Anesthesiology
 Huber, Leif, 37874443, DRA, Diagnostic Radiology
 Huber, Lilah, 64175548, ANT, Anesthesiology
-Huber, Louis, 89215820, IMD, Internal Medicine
 Huber, Louis, 63944088, XXX, NOT_MATCHED
+Huber, Louis, 89215820, IMD, Internal Medicine
 Huber, Remington, 62220432, NRO, Neurology
 Huber, Rosalyn, 35399954, XXX, NOT_MATCHED
 Huber, Sage, 51016702, FMD, Family Medicine
@@ -5190,8 +5190,8 @@ Hutchinson, Adele, 81642054, ANT, Anesthesiology
 Hutchinson, Adley, 21504409, XXX, NOT_MATCHED
 Hutchinson, Alex, 81745848, EMD, Emergency Medicine
 Hutchinson, Aliana, 82400717, GSU, General Surgery
-Hutchinson, Alice, 23783892, XXX, NOT_MATCHED
 Hutchinson, Alice, 53171497, PDT, Pediatrics
+Hutchinson, Alice, 23783892, XXX, NOT_MATCHED
 Hutchinson, Archer, 96409368, PDT, Pediatrics
 Hutchinson, Ares, 65355874, FMD, Family Medicine
 Hutchinson, Ashlynn, 72634766, XXX, NOT_MATCHED
@@ -5319,8 +5319,8 @@ Ibarra, Jedidiah, 76924954, ANT, Anesthesiology
 Ibarra, Jenesis, 82826000, XXX, NOT_MATCHED
 Ibarra, Kendrick, 30490137, ANT, Anesthesiology
 Ibarra, Kenneth, 81759255, PSY, Psychiatry
-Ibarra, Layne, 13866204, EMD, Emergency Medicine
 Ibarra, Layne, 89515105, ANT, Anesthesiology
+Ibarra, Layne, 13866204, EMD, Emergency Medicine
 Ibarra, Lilianna, 12801013, XXX, NOT_MATCHED
 Ibarra, Margo, 40159490, OBG, Obstetrics and Gynecology
 Ibarra, Marlon, 25379949, XXX, NOT_MATCHED
@@ -5674,8 +5674,8 @@ Jarvis, Kaiya, 63675094, FMD, Family Medicine
 Jarvis, Karsyn, 52844420, PDT, Pediatrics
 Jarvis, Laney, 31462199, IMD, Internal Medicine
 Jarvis, Laylah, 53266650, DMP, Diagnostic and Molecular Pathology
-Jarvis, Lennox, 24145306, DMP, Diagnostic and Molecular Pathology
 Jarvis, Lennox, 48592631, FMD, Family Medicine
+Jarvis, Lennox, 24145306, DMP, Diagnostic and Molecular Pathology
 Jarvis, Lylah, 70852249, XXX, NOT_MATCHED
 Jarvis, Madilyn, 88060057, ROC, Radiation Oncology
 Jarvis, Malani, 15559579, FMD, Family Medicine
@@ -5838,8 +5838,8 @@ Jensen, Amias, 44042717, XXX, NOT_MATCHED
 Jensen, Angelo, 51839190, XXX, NOT_MATCHED
 Jensen, Ariah, 39609335, FMD, Family Medicine
 Jensen, Artemis, 49875833, FMD, Family Medicine
-Jensen, Axl, 83016145, FMD, Family Medicine
 Jensen, Axl, 76371754, IMD, Internal Medicine
+Jensen, Axl, 83016145, FMD, Family Medicine
 Jensen, Ayaan, 23462850, OBG, Obstetrics and Gynecology
 Jensen, Beatrice, 71178937, IMD, Internal Medicine
 Jensen, Briar, 13455866, GSU, General Surgery
@@ -5853,8 +5853,8 @@ Jensen, Ermias, 54390005, FMD, Family Medicine
 Jensen, Gwen, 81764144, FMD, Family Medicine
 Jensen, Harry, 33980583, FMD, Family Medicine
 Jensen, Jase, 68615441, FMD, Family Medicine
-Jensen, Jaxton, 94420242, FMD, Family Medicine
 Jensen, Jaxton, 15742705, FMD, Family Medicine
+Jensen, Jaxton, 94420242, FMD, Family Medicine
 Jensen, Jaycee, 84439916, XXX, NOT_MATCHED
 Jensen, Jayda, 45479187, FMD, Family Medicine
 Jensen, Jefferson, 72544446, PSU, Plastic Surgery
@@ -5923,8 +5923,8 @@ Jimenez, Mina, 25635721, FMD, Family Medicine
 Jimenez, Niklaus, 35382672, XXX, NOT_MATCHED
 Jimenez, Ophelia, 81709729, XXX, NOT_MATCHED
 Jimenez, Paisley, 38679685, FMD, Family Medicine
-Jimenez, Quinn, 22410471, XXX, NOT_MATCHED
 Jimenez, Quinn, 48494582, PSY, Psychiatry
+Jimenez, Quinn, 22410471, XXX, NOT_MATCHED
 Jimenez, Ridge, 55865802, XXX, NOT_MATCHED
 Jimenez, Scarlett, 47942112, XXX, NOT_MATCHED
 Jimenez, Tatum, 28014999, XXX, NOT_MATCHED
@@ -6040,8 +6040,8 @@ Johnston, Ayan, 73977913, PSY, Psychiatry
 Johnston, Aylin, 95615337, FMD, Family Medicine
 Johnston, Barrett, 29554626, PSY, Psychiatry
 Johnston, Benson, 29301100, PSY, Psychiatry
-Johnston, Bonnie, 65883006, FMD, Family Medicine
 Johnston, Bonnie, 81135810, XXX, NOT_MATCHED
+Johnston, Bonnie, 65883006, FMD, Family Medicine
 Johnston, Chandler, 31232697, FMD, Family Medicine
 Johnston, Deacon, 57130147, XXX, NOT_MATCHED
 Johnston, Della, 55757748, NRO, Neurology
@@ -6169,8 +6169,8 @@ Jordan, Kensley, 16023775, ANT, Anesthesiology
 Jordan, Kody, 35163584, URO, Urology
 Jordan, Kora, 56218795, IMD, Internal Medicine
 Jordan, Kyrie, 81644223, IMD, Internal Medicine
-Jordan, Kyson, 24021613, FMD, Family Medicine
 Jordan, Kyson, 70998649, IMD, Internal Medicine
+Jordan, Kyson, 24021613, FMD, Family Medicine
 Jordan, Legend, 69162609, CSU, Cardiac Surgery
 Jordan, Liana, 80664442, FMD, Family Medicine
 Jordan, Maisie, 34750561, XXX, NOT_MATCHED
@@ -6226,8 +6226,8 @@ Joseph, Landry, 54435704, FMD, Family Medicine
 Joseph, Leon, 74803594, XXX, NOT_MATCHED
 Joseph, Malik, 60704933, IMD, Internal Medicine
 Joseph, Marco, 54939456, FMD, Family Medicine
-Joseph, Mariam, 53691905, XXX, NOT_MATCHED
 Joseph, Mariam, 13745789, XXX, NOT_MATCHED
+Joseph, Mariam, 53691905, XXX, NOT_MATCHED
 Joseph, Matteo, 13536715, PSY, Psychiatry
 Joseph, Mekhi, 16500781, IMD, Internal Medicine
 Joseph, Mikaela, 42089739, EMD, Emergency Medicine
@@ -6292,8 +6292,8 @@ Juarez, Melanie, 31240567, ANT, Anesthesiology
 Juarez, Milani, 12726178, NRS, Neurosurgery
 Juarez, Monroe, 46110052, PSY, Psychiatry
 Juarez, Moses, 12389025, FMD, Family Medicine
-Juarez, Muhammad, 91137674, XXX, NOT_MATCHED
 Juarez, Muhammad, 17009274, XXX, NOT_MATCHED
+Juarez, Muhammad, 91137674, XXX, NOT_MATCHED
 Juarez, Nathalie, 45832836, XXX, NOT_MATCHED
 Juarez, Oakley, 82520937, FMD, Family Medicine
 Juarez, Pablo, 42442526, PDT, Pediatrics
@@ -6374,9 +6374,9 @@ Kaur, Beau, 83397641, IMD, Internal Medicine
 Kaur, Belen, 40213921, DMP, Diagnostic and Molecular Pathology
 Kaur, Brecken, 47215291, FMD, Family Medicine
 Kaur, Catherine, 31725488, XXX, NOT_MATCHED
-Kaur, Demetrius, 42266445, EMD, Emergency Medicine
 Kaur, Demetrius, 99465437, IMD, Internal Medicine
 Kaur, Demetrius, 75009091, ORS, Orthopedic Surgery
+Kaur, Demetrius, 42266445, EMD, Emergency Medicine
 Kaur, Denver, 19833836, XXX, NOT_MATCHED
 Kaur, Dream, 67407323, EMD, Emergency Medicine
 Kaur, Everly, 42047489, FMD, Family Medicine
@@ -6434,8 +6434,8 @@ Keith, Jayleen, 16551401, FMD, Family Medicine
 Keith, Journey, 55668494, XXX, NOT_MATCHED
 Keith, Karter, 32575018, XXX, NOT_MATCHED
 Keith, King, 91412898, IMD, Internal Medicine
-Keith, Landry, 15776110, FMD, Family Medicine
 Keith, Landry, 78289400, FMD, Family Medicine
+Keith, Landry, 15776110, FMD, Family Medicine
 Keith, Langston, 19294185, FMD, Family Medicine
 Keith, Lawrence, 27227360, PHF, Public Health and Preventive Family Medicine
 Keith, Legacy, 70417408, FMD, Family Medicine
@@ -6471,8 +6471,8 @@ Keller, Coraline, 89214662, XXX, NOT_MATCHED
 Keller, Curtis, 90262019, EMD, Emergency Medicine
 Keller, Damir, 10578687, XXX, NOT_MATCHED
 Keller, Danny, 17182951, FMD, Family Medicine
-Keller, Dexter, 18278403, FMD, Family Medicine
 Keller, Dexter, 13270311, FMD, Family Medicine
+Keller, Dexter, 18278403, FMD, Family Medicine
 Keller, Elian, 76438173, IMD, Internal Medicine
 Keller, Elliott, 28694287, NMD, Nuclear Medicine
 Keller, Eloise, 70223069, PSY, Psychiatry
@@ -6530,9 +6530,9 @@ Kelley, Darren, 57860675, OBG, Obstetrics and Gynecology
 Kelley, Della, 37268393, CSU, Cardiac Surgery
 Kelley, Donovan, 14182432, XXX, NOT_MATCHED
 Kelley, Elliot, 57447327, ANC, Anesthesiology - Clinician Investigator Program
-Kelley, Emery, 12872730, XXX, NOT_MATCHED
-Kelley, Emery, 86875234, PSU, Plastic Surgery
 Kelley, Emery, 39858620, XXX, NOT_MATCHED
+Kelley, Emery, 86875234, PSU, Plastic Surgery
+Kelley, Emery, 12872730, XXX, NOT_MATCHED
 Kelley, Emmitt, 73596231, XXX, NOT_MATCHED
 Kelley, Esther, 55724280, FMD, Family Medicine
 Kelley, Giana, 67442745, ANT, Anesthesiology
@@ -6859,8 +6859,8 @@ Khan, Scarlett, 33317185, FMD, Family Medicine
 Khan, Selah, 45636242, XXX, NOT_MATCHED
 Khan, Simone, 63979152, XXX, NOT_MATCHED
 Khan, Thatcher, 13578268, FMD, Family Medicine
-Khan, Vienna, 63777204, FMD, Family Medicine
 Khan, Vienna, 97933761, IMD, Internal Medicine
+Khan, Vienna, 63777204, FMD, Family Medicine
 Kim, Adelyn, 80129268, XXX, NOT_MATCHED
 Kim, Ana, 64640929, FMD, Family Medicine
 Kim, Aubriella, 31037047, XXX, NOT_MATCHED
@@ -7170,8 +7170,8 @@ Kline, William, 85684022, FMD, Family Medicine
 Kline, Zaylee, 54434280, XXX, NOT_MATCHED
 Knapp, Ahmed, 29086253, PDT, Pediatrics
 Knapp, Alexia, 80432906, XXX, NOT_MATCHED
-Knapp, Ameer, 71667548, OBG, Obstetrics and Gynecology
 Knapp, Ameer, 36514359, FMD, Family Medicine
+Knapp, Ameer, 71667548, OBG, Obstetrics and Gynecology
 Knapp, Amora, 97511403, PSY, Psychiatry
 Knapp, Andrew, 72696153, IMD, Internal Medicine
 Knapp, Annabella, 50184701, FMD, Family Medicine
@@ -7446,8 +7446,8 @@ Krueger, Helena, 88572595, FMD, Family Medicine
 Krueger, Holden, 68808985, DRA, Diagnostic Radiology
 Krueger, Jacob, 46788279, XXX, NOT_MATCHED
 Krueger, Jaziel, 29443569, XXX, NOT_MATCHED
-Krueger, Jillian, 25986015, XXX, NOT_MATCHED
 Krueger, Jillian, 75945972, FMD, Family Medicine
+Krueger, Jillian, 25986015, XXX, NOT_MATCHED
 Krueger, Jorge, 21540132, FMD, Family Medicine
 Krueger, Jovie, 86706761, FMD, Family Medicine
 Krueger, Kai, 87006539, XXX, NOT_MATCHED
@@ -7559,8 +7559,8 @@ Lamb, Heidi, 60315087, FMD, Family Medicine
 Lamb, Hope, 85489175, FMD, Family Medicine
 Lamb, Kailey, 59002207, DMT, Dermatology
 Lamb, Kayla, 15241262, ANT, Anesthesiology
-Lamb, Keegan, 81913510, FMD, Family Medicine
 Lamb, Keegan, 13193149, XXX, NOT_MATCHED
+Lamb, Keegan, 81913510, FMD, Family Medicine
 Lamb, Linda, 41292922, XXX, NOT_MATCHED
 Lamb, Maison, 65222808, FMD, Family Medicine
 Lamb, Makenzie, 97410183, FMD, Family Medicine
@@ -7604,8 +7604,8 @@ Lambert, Kolton, 73977434, FMD, Family Medicine
 Lambert, Kynlee, 62089970, XXX, NOT_MATCHED
 Lambert, Leonard, 99873323, FMD, Family Medicine
 Lambert, Lilith, 20077344, XXX, NOT_MATCHED
-Lambert, Marley, 86827928, XXX, NOT_MATCHED
 Lambert, Marley, 12936156, FMD, Family Medicine
+Lambert, Marley, 86827928, XXX, NOT_MATCHED
 Lambert, Marvin, 97654337, XXX, NOT_MATCHED
 Lambert, Mazikee, 97895059, XXX, NOT_MATCHED
 Lambert, Moshe, 84158117, URO, Urology
@@ -7672,8 +7672,8 @@ Lane, Ashley, 93766236, XXX, NOT_MATCHED
 Lane, Ashlynn, 20483104, XXX, NOT_MATCHED
 Lane, Averie, 54903483, ANT, Anesthesiology
 Lane, Damien, 40818297, XXX, NOT_MATCHED
-Lane, Danny, 76866446, IMD, Internal Medicine
 Lane, Danny, 42772601, OTO, Otolaryngology - Head and Neck Surgery
+Lane, Danny, 76866446, IMD, Internal Medicine
 Lane, Davis, 54036559, XXX, NOT_MATCHED
 Lane, Dylan, 41590389, IMD, Internal Medicine
 Lane, Ellie, 31086578, XXX, NOT_MATCHED
@@ -7810,8 +7810,8 @@ Larsen, Amy, 76464443, IMD, Internal Medicine
 Larsen, Avayah, 90999486, XXX, NOT_MATCHED
 Larsen, Avery, 96761542, XXX, NOT_MATCHED
 Larsen, Braelyn, 58673926, FMD, Family Medicine
-Larsen, Brett, 36695395, XXX, NOT_MATCHED
 Larsen, Brett, 69027109, XXX, NOT_MATCHED
+Larsen, Brett, 36695395, XXX, NOT_MATCHED
 Larsen, Catherine, 98394409, FMD, Family Medicine
 Larsen, Charlotte, 79833814, IMD, Internal Medicine
 Larsen, Cody, 46191909, PDT, Pediatrics
@@ -8094,8 +8094,8 @@ Leach, Murphy, 48547524, XXX, NOT_MATCHED
 Leach, Nellie, 85883800, PDT, Pediatrics
 Leach, Nola, 70114382, NRO, Neurology
 Leach, Ophelia, 76582607, FMD, Family Medicine
-Leach, Paul, 35958016, IMD, Internal Medicine
 Leach, Paul, 80203032, FMD, Family Medicine
+Leach, Paul, 35958016, IMD, Internal Medicine
 Leach, Samir, 80826630, XXX, NOT_MATCHED
 Leach, Sylvie, 98432579, IMD, Internal Medicine
 Leach, Tony, 96972156, IMD, Internal Medicine
@@ -8398,8 +8398,8 @@ Lester, Remi, 54651095, IMD, Internal Medicine
 Lester, Rome, 41279888, FMD, Family Medicine
 Lester, Ryann, 90101153, PMR, Physical Medicine & Rehabilitation
 Lester, Tristan, 47135729, XXX, NOT_MATCHED
-Lester, Veda, 41417795, XXX, NOT_MATCHED
 Lester, Veda, 28726328, FMD, Family Medicine
+Lester, Veda, 41417795, XXX, NOT_MATCHED
 Lester, Will, 53270123, XXX, NOT_MATCHED
 Lester, William, 91502644, XXX, NOT_MATCHED
 Lester, Yousef, 65168180, FMD, Family Medicine
@@ -8688,8 +8688,8 @@ Lindsey, Maleah, 18124519, FMD, Family Medicine
 Lindsey, Mavis, 83496555, PSU, Plastic Surgery
 Lindsey, Max, 88811023, XXX, NOT_MATCHED
 Lindsey, Musa, 84130390, XXX, NOT_MATCHED
-Lindsey, Parker, 67213528, FMD, Family Medicine
 Lindsey, Parker, 19005715, FMD, Family Medicine
+Lindsey, Parker, 67213528, FMD, Family Medicine
 Lindsey, Rogelio, 42741661, FMD, Family Medicine
 Lindsey, Rylee, 86818949, XXX, NOT_MATCHED
 Lindsey, Salvatore, 49719755, XXX, NOT_MATCHED
@@ -8747,8 +8747,8 @@ Little, Reign, 78394388, IMD, Internal Medicine
 Little, Riggs, 12529584, IMD, Internal Medicine
 Little, Rosalie, 33566886, FMD, Family Medicine
 Little, Sevyn, 69030649, FMD, Family Medicine
-Little, Sierra, 41135322, ANT, Anesthesiology
 Little, Sierra, 29068875, XXX, NOT_MATCHED
+Little, Sierra, 41135322, ANT, Anesthesiology
 Little, Skyla, 83140746, NRS, Neurosurgery
 Little, Stefan, 63135535, ANT, Anesthesiology
 Little, Truett, 29043697, FMD, Family Medicine
@@ -8867,8 +8867,8 @@ Livingston, Trinity, 52072456, FMD, Family Medicine
 Livingston, Vivian, 53455067, FMD, Family Medicine
 Livingston, Winston, 74218962, FMD, Family Medicine
 Livingston, Zhuri, 28573619, FMD, Family Medicine
-Lloyd, Alan, 34974604, XXX, NOT_MATCHED
 Lloyd, Alan, 74265878, IMD, Internal Medicine
+Lloyd, Alan, 34974604, XXX, NOT_MATCHED
 Lloyd, Alani, 91990233, XXX, NOT_MATCHED
 Lloyd, Alexa, 43421953, FMD, Family Medicine
 Lloyd, Alice, 79337046, XXX, NOT_MATCHED
@@ -8987,8 +8987,8 @@ Long, Estella, 53057489, PSY, Psychiatry
 Long, Ford, 91686729, FMD, Family Medicine
 Long, Galilea, 39363574, FMD, Family Medicine
 Long, Grace, 42924966, PSY, Psychiatry
-Long, Harvey, 13473513, OPH, Ophthalmology
 Long, Harvey, 64582567, ORS, Orthopedic Surgery
+Long, Harvey, 13473513, OPH, Ophthalmology
 Long, Heidi, 32052613, PSY, Psychiatry
 Long, Huxley, 69606912, XXX, NOT_MATCHED
 Long, Ila, 87706257, IMD, Internal Medicine
@@ -9052,8 +9052,8 @@ Lopez, Ledger, 60845467, FMD, Family Medicine
 Lopez, Lucca, 51139870, GSU, General Surgery
 Lopez, Magnolia, 10023546, IMD, Internal Medicine
 Lopez, Mateo, 79583026, FMD, Family Medicine
-Lopez, Mila, 56579919, PMR, Physical Medicine & Rehabilitation
 Lopez, Mila, 68882632, FMD, Family Medicine
+Lopez, Mila, 56579919, PMR, Physical Medicine & Rehabilitation
 Lopez, Milan, 87770863, XXX, NOT_MATCHED
 Lopez, Murphy, 41755601, NRO, Neurology
 Lopez, Naomi, 39565783, XXX, NOT_MATCHED
@@ -9137,8 +9137,8 @@ Lowe, Egypt, 70096730, IMD, Internal Medicine
 Lowe, Elias, 12600221, IMD, Internal Medicine
 Lowe, Fernando, 12608277, PSY, Psychiatry
 Lowe, Genesis, 20805882, FMD, Family Medicine
-Lowe, Gloria, 71221435, GSU, General Surgery
 Lowe, Gloria, 92760413, IMD, Internal Medicine
+Lowe, Gloria, 71221435, GSU, General Surgery
 Lowe, Guillermo, 15260611, XXX, NOT_MATCHED
 Lowe, Holly, 20533255, FMD, Family Medicine
 Lowe, Isabella, 82396284, FMD, Family Medicine
@@ -9472,8 +9472,8 @@ Lugo, Karsyn, 47131221, ROC, Radiation Oncology
 Lugo, Kolton, 14274286, XXX, NOT_MATCHED
 Lugo, Logan, 47016702, FMD, Family Medicine
 Lugo, Lucy, 64702021, FMD, Family Medicine
-Lugo, Mallory, 54710504, EMD, Emergency Medicine
 Lugo, Mallory, 43001427, XXX, NOT_MATCHED
+Lugo, Mallory, 54710504, EMD, Emergency Medicine
 Lugo, Mason, 69394524, FMD, Family Medicine
 Lugo, Matilda, 80257793, PDT, Pediatrics
 Lugo, Maverick, 36613268, FMD, Family Medicine
@@ -9500,8 +9500,8 @@ Luna, Alanna, 20065370, DRA, Diagnostic Radiology
 Luna, Alfredo, 80738896, FMD, Family Medicine
 Luna, Anahi, 28638962, FMD, Family Medicine
 Luna, Andres, 95622417, IMD, Internal Medicine
-Luna, Arturo, 97178308, IMD, Internal Medicine
 Luna, Arturo, 24945620, XXX, NOT_MATCHED
+Luna, Arturo, 97178308, IMD, Internal Medicine
 Luna, Atticus, 28534596, XXX, NOT_MATCHED
 Luna, Braylen, 39748722, NRP, Neurology - Pediatric
 Luna, Bruno, 97587745, FMD, Family Medicine
@@ -9802,8 +9802,8 @@ Macias, Ryan, 30362207, GSU, General Surgery
 Macias, Trevor, 18270549, FMD, Family Medicine
 Macias, Veda, 99300844, XXX, NOT_MATCHED
 Macias, Zora, 99382665, IMD, Internal Medicine
-Macias, Zyair, 31931897, XXX, NOT_MATCHED
 Macias, Zyair, 12660621, XXX, NOT_MATCHED
+Macias, Zyair, 31931897, XXX, NOT_MATCHED
 Mack, Alexia, 67462003, DRA, Diagnostic Radiology
 Mack, Alexis, 63743045, GSU, General Surgery
 Mack, Ayla, 85666202, DRA, Diagnostic Radiology
@@ -9912,8 +9912,8 @@ Maddox, Audrey, 34523403, FMD, Family Medicine
 Maddox, August, 51230818, FMD, Family Medicine
 Maddox, Aya, 15980015, ANT, Anesthesiology
 Maddox, Ayden, 74431596, FMD, Family Medicine
-Maddox, Aylin, 51837808, MMI, Medical Microbiology
 Maddox, Aylin, 78257474, FMD, Family Medicine
+Maddox, Aylin, 51837808, MMI, Medical Microbiology
 Maddox, Barbara, 36644713, XXX, NOT_MATCHED
 Maddox, Belen, 52139381, PSY, Psychiatry
 Maddox, Blaine, 61149056, IMD, Internal Medicine
@@ -9933,8 +9933,8 @@ Maddox, Giavanna, 39678353, IMD, Internal Medicine
 Maddox, Greta, 26814523, FMD, Family Medicine
 Maddox, Hayley, 57523419, FMD, Family Medicine
 Maddox, Jessica, 36511929, XXX, NOT_MATCHED
-Maddox, Kaiden, 11613487, OPH, Ophthalmology
 Maddox, Kaiden, 49027112, GSU, General Surgery
+Maddox, Kaiden, 11613487, OPH, Ophthalmology
 Maddox, Karla, 19491372, PSY, Psychiatry
 Maddox, Kenzie, 79059982, FMD, Family Medicine
 Maddox, Landen, 11611375, FMD, Family Medicine
@@ -10166,8 +10166,8 @@ Malone, Selah, 19987705, FMD, Family Medicine
 Malone, Talia, 75407239, ANT, Anesthesiology
 Malone, Thalia, 92502251, FMD, Family Medicine
 Malone, Van, 69989040, FMD, Family Medicine
-Malone, Vienna, 82188858, XXX, NOT_MATCHED
 Malone, Vienna, 68421674, FMD, Family Medicine
+Malone, Vienna, 82188858, XXX, NOT_MATCHED
 Malone, Xzavier, 91819985, XXX, NOT_MATCHED
 Malone, Yaretzi, 22857181, FMD, Family Medicine
 Mann, Addison, 89175646, IMD, Internal Medicine
@@ -10766,8 +10766,8 @@ Mata, Gracie, 42785290, FMD, Family Medicine
 Mata, Holly, 90347001, OBG, Obstetrics and Gynecology
 Mata, Jaxton, 76154826, XXX, NOT_MATCHED
 Mata, Journee, 42142055, IMD, Internal Medicine
-Mata, Judson, 70459920, XXX, NOT_MATCHED
 Mata, Judson, 32593671, PDT, Pediatrics
+Mata, Judson, 70459920, XXX, NOT_MATCHED
 Mata, Kason, 93476668, MGG, Medical Genetics and Genomics
 Mata, Kynlee, 82068718, FMD, Family Medicine
 Mata, Langston, 62890531, FMD, Family Medicine
@@ -10802,8 +10802,8 @@ Mathews, Ayan, 48762795, XXX, NOT_MATCHED
 Mathews, Bonnie, 54369174, FMD, Family Medicine
 Mathews, Briar, 88148804, OTO, Otolaryngology - Head and Neck Surgery
 Mathews, Casey, 63052364, XXX, NOT_MATCHED
-Mathews, Cedric, 72878553, IMD, Internal Medicine
 Mathews, Cedric, 74859153, XXX, NOT_MATCHED
+Mathews, Cedric, 72878553, IMD, Internal Medicine
 Mathews, Celine, 62208039, MGG, Medical Genetics and Genomics
 Mathews, Colette, 17322895, FMD, Family Medicine
 Mathews, Dakota, 79549830, XXX, NOT_MATCHED
@@ -11278,8 +11278,8 @@ McBride, Riggs, 37010157, XXX, NOT_MATCHED
 McBride, Rosemary, 45102253, FMD, Family Medicine
 McBride, Saige, 28585814, XXX, NOT_MATCHED
 McBride, Sariyah, 15835906, XXX, NOT_MATCHED
-McBride, Serena, 21198475, GSU, General Surgery
 McBride, Serena, 64868419, XXX, NOT_MATCHED
+McBride, Serena, 21198475, GSU, General Surgery
 McBride, Uriah, 50140826, NRO, Neurology
 McBride, Valerie, 91161906, IMD, Internal Medicine
 McBride, Whitley, 58763496, XXX, NOT_MATCHED
@@ -11335,8 +11335,8 @@ McCall, Rowan, 43315585, FMD, Family Medicine
 McCall, Sadie, 73716455, FMD, Family Medicine
 McCall, Samir, 33203481, EMD, Emergency Medicine
 McCall, Saoirse, 34091167, DRA, Diagnostic Radiology
-McCall, Scarlet, 28740851, NRO, Neurology
 McCall, Scarlet, 45131164, FMD, Family Medicine
+McCall, Scarlet, 28740851, NRO, Neurology
 McCall, Scott, 88608363, XXX, NOT_MATCHED
 McCall, Sienna, 59166870, DRA, Diagnostic Radiology
 McCall, Sincere, 41441091, FMD, Family Medicine
@@ -11459,8 +11459,8 @@ McCarty, Diego, 78427739, XXX, NOT_MATCHED
 McCarty, Eden, 43216081, ANT, Anesthesiology
 McCarty, Edith, 15592910, IMD, Internal Medicine
 McCarty, Ellis, 47146901, FMD, Family Medicine
-McCarty, Etta, 68639914, XXX, NOT_MATCHED
 McCarty, Etta, 35235786, DMT, Dermatology
+McCarty, Etta, 68639914, XXX, NOT_MATCHED
 McCarty, Everest, 95508747, FMD, Family Medicine
 McCarty, Francesca, 35510696, IMD, Internal Medicine
 McCarty, Gabriella, 11383479, IMD, Internal Medicine
@@ -11502,12 +11502,12 @@ McClain, Bowen, 59204623, XXX, NOT_MATCHED
 McClain, Braelyn, 70083818, DMP, Diagnostic and Molecular Pathology
 McClain, Braxton, 82528694, OTO, Otolaryngology - Head and Neck Surgery
 McClain, Callan, 72092951, FMD, Family Medicine
-McClain, Elias, 45738017, FMD, Family Medicine
 McClain, Elias, 32230085, XXX, NOT_MATCHED
+McClain, Elias, 45738017, FMD, Family Medicine
 McClain, Esme, 96073756, XXX, NOT_MATCHED
 McClain, Eva, 92706296, IMD, Internal Medicine
-McClain, Felicity, 44720289, IMD, Internal Medicine
 McClain, Felicity, 21076201, XXX, NOT_MATCHED
+McClain, Felicity, 44720289, IMD, Internal Medicine
 McClain, George, 10856402, XXX, NOT_MATCHED
 McClain, Halo, 19361963, FMD, Family Medicine
 McClain, Harlem, 69568617, FMD, Family Medicine
@@ -11895,8 +11895,8 @@ McDonald, Nyla, 69485948, PDT, Pediatrics
 McDonald, Oliver, 53421151, NMD, Nuclear Medicine
 McDonald, Palmer, 89950252, PSY, Psychiatry
 McDonald, Peter, 20104403, FMD, Family Medicine
-McDonald, Romeo, 40704347, FMD, Family Medicine
 McDonald, Romeo, 21115276, EMD, Emergency Medicine
+McDonald, Romeo, 40704347, FMD, Family Medicine
 McDonald, Skye, 32086071, FMD, Family Medicine
 McDonald, Van, 46218019, FMD, Family Medicine
 McDonald, Wesson, 27876553, PDT, Pediatrics
@@ -12088,8 +12088,8 @@ McGuire, Zander, 80455481, XXX, NOT_MATCHED
 McIntosh, Alani, 35411135, FMD, Family Medicine
 McIntosh, Alberto, 42881916, FMD, Family Medicine
 McIntosh, Alden, 18300074, NMD, Nuclear Medicine
-McIntosh, Alivia, 97373415, GSU, General Surgery
 McIntosh, Alivia, 34822905, XXX, NOT_MATCHED
+McIntosh, Alivia, 97373415, GSU, General Surgery
 McIntosh, Anthony, 79829553, XXX, NOT_MATCHED
 McIntosh, Ariah, 12826294, GSU, General Surgery
 McIntosh, Avianna, 60090218, ANT, Anesthesiology
@@ -12580,8 +12580,8 @@ McPherson, Joey, 14806944, XXX, NOT_MATCHED
 McPherson, Kaiden, 77513774, NRO, Neurology
 McPherson, Kieran, 83942612, EMD, Emergency Medicine
 McPherson, Kira, 51309820, FMD, Family Medicine
-McPherson, Landry, 26640727, FMD, Family Medicine
 McPherson, Landry, 36946496, FMD, Family Medicine
+McPherson, Landry, 26640727, FMD, Family Medicine
 McPherson, Liberty, 72438277, NRO, Neurology
 McPherson, Lochlan, 98114544, XXX, NOT_MATCHED
 McPherson, Luke, 49287052, FMD, Family Medicine
@@ -12655,8 +12655,8 @@ Meadows, Norah, 74321507, FMD, Family Medicine
 Meadows, Peyton, 79377728, FMD, Family Medicine
 Meadows, Ramon, 91351547, ORS, Orthopedic Surgery
 Meadows, Ronin, 61202007, FMD, Family Medicine
-Meadows, Rory, 19020234, XXX, NOT_MATCHED
 Meadows, Rory, 73907478, XXX, NOT_MATCHED
+Meadows, Rory, 19020234, XXX, NOT_MATCHED
 Meadows, Salem, 85449170, XXX, NOT_MATCHED
 Meadows, Trinity, 96345180, XXX, NOT_MATCHED
 Meadows, Zaylee, 10317489, PSY, Psychiatry
@@ -12688,8 +12688,8 @@ Medina, Kairo, 87551681, PSY, Psychiatry
 Medina, Kamdyn, 56783482, XXX, NOT_MATCHED
 Medina, Karsyn, 99826456, VSU, Vascular Surgery
 Medina, Kyler, 99612944, FMD, Family Medicine
-Medina, Macie, 65033637, XXX, NOT_MATCHED
 Medina, Macie, 57433403, XXX, NOT_MATCHED
+Medina, Macie, 65033637, XXX, NOT_MATCHED
 Medina, Malakai, 22964798, IMD, Internal Medicine
 Medina, Marcellus, 13204313, DRA, Diagnostic Radiology
 Medina, Mariah, 14130881, FMD, Family Medicine
@@ -12741,8 +12741,8 @@ Medrano, Luella, 54101155, FMD, Family Medicine
 Medrano, Lylah, 97709547, GSU, General Surgery
 Medrano, Maddox, 72378577, IMD, Internal Medicine
 Medrano, Malia, 25615709, XXX, NOT_MATCHED
-Medrano, Maverick, 80852036, DCP, Diagnostic and Clinical Pathology
 Medrano, Maverick, 51397346, IMD, Internal Medicine
+Medrano, Maverick, 80852036, DCP, Diagnostic and Clinical Pathology
 Medrano, Nico, 48622662, XXX, NOT_MATCHED
 Medrano, Noor, 95325859, XXX, NOT_MATCHED
 Medrano, Rachel, 32929604, FMD, Family Medicine
@@ -12781,8 +12781,8 @@ Mejia, Jaelynn, 83546928, FMD, Family Medicine
 Mejia, Jair, 98182318, GSU, General Surgery
 Mejia, Jamal, 54296865, FMD, Family Medicine
 Mejia, Jianna, 71741530, FMD, Family Medicine
-Mejia, Jonathan, 51985969, XXX, NOT_MATCHED
 Mejia, Jonathan, 47536789, XXX, NOT_MATCHED
+Mejia, Jonathan, 51985969, XXX, NOT_MATCHED
 Mejia, Josie, 71517555, XXX, NOT_MATCHED
 Mejia, Josue, 88197807, XXX, NOT_MATCHED
 Mejia, Kailani, 31844050, PMR, Physical Medicine & Rehabilitation
@@ -12866,8 +12866,8 @@ Melendez, Yehuda, 67194077, XXX, NOT_MATCHED
 Melendez, Zev, 32638300, FMD, Family Medicine
 Melton, Addilynn, 91504117, OBG, Obstetrics and Gynecology
 Melton, Adelynn, 82152126, FMD, Family Medicine
-Melton, Ahmir, 74397014, PDT, Pediatrics
 Melton, Ahmir, 61724701, XXX, NOT_MATCHED
+Melton, Ahmir, 74397014, PDT, Pediatrics
 Melton, Anastasia, 87132848, FMD, Family Medicine
 Melton, Aspen, 64785065, XXX, NOT_MATCHED
 Melton, Aubrie, 41569885, ANT, Anesthesiology
@@ -13353,8 +13353,8 @@ Middleton, Xiomara, 38985817, FMD, Family Medicine
 Middleton, Zainab, 30198544, FMD, Family Medicine
 Middleton, Zhuri, 96069347, FMD, Family Medicine
 Miles, Aiden, 65545588, DRA, Diagnostic Radiology
-Miles, Aliza, 63143034, XXX, NOT_MATCHED
 Miles, Aliza, 99241420, FMD, Family Medicine
+Miles, Aliza, 63143034, XXX, NOT_MATCHED
 Miles, Alvaro, 64923944, FMD, Family Medicine
 Miles, Analia, 78851156, FMD, Family Medicine
 Miles, Angie, 16489653, OBG, Obstetrics and Gynecology
@@ -13577,8 +13577,8 @@ Mitchell, Kevin, 98174890, PDT, Pediatrics
 Mitchell, Killian, 49684255, XXX, NOT_MATCHED
 Mitchell, Koda, 97852393, XXX, NOT_MATCHED
 Mitchell, Leighton, 43161539, PDT, Pediatrics
-Mitchell, Leo, 21162125, FMD, Family Medicine
 Mitchell, Leo, 48959293, FMD, Family Medicine
+Mitchell, Leo, 21162125, FMD, Family Medicine
 Mitchell, Levi, 96338430, XXX, NOT_MATCHED
 Mitchell, Louie, 73450107, FMD, Family Medicine
 Mitchell, Mackenzie, 10883980, XXX, NOT_MATCHED
@@ -13864,8 +13864,8 @@ Moody, Ahmir, 75597708, URO, Urology
 Moody, Ander, 49784273, PDT, Pediatrics
 Moody, Armani, 44091578, XXX, NOT_MATCHED
 Moody, Bo, 21729440, XXX, NOT_MATCHED
-Moody, Bode, 33787223, XXX, NOT_MATCHED
 Moody, Bode, 30478284, XXX, NOT_MATCHED
+Moody, Bode, 33787223, XXX, NOT_MATCHED
 Moody, Brooklyn, 66034146, IMD, Internal Medicine
 Moody, Charlee, 75273044, FMD, Family Medicine
 Moody, Clay, 93331127, PHF, Public Health and Preventive Family Medicine
@@ -14500,8 +14500,8 @@ Morton, Amira, 88793681, XXX, NOT_MATCHED
 Morton, Amos, 84423985, FMD, Family Medicine
 Morton, Anais, 69741941, FMD, Family Medicine
 Morton, Bear, 29077226, PSY, Psychiatry
-Morton, Brielle, 70332291, FMD, Family Medicine
 Morton, Brielle, 87234027, FMD, Family Medicine
+Morton, Brielle, 70332291, FMD, Family Medicine
 Morton, Chaya, 82899213, XXX, NOT_MATCHED
 Morton, Clay, 89812281, PSY, Psychiatry
 Morton, Damir, 55757171, XXX, NOT_MATCHED
@@ -14904,8 +14904,8 @@ Mullins, Sophia, 53856018, FMD, Family Medicine
 Mullins, Trevor, 15381706, DRA, Diagnostic Radiology
 Mullins, Veda, 87105525, IMD, Internal Medicine
 Mullins, Yousef, 98608485, FMD, Family Medicine
-Mullins, Zachariah, 97980454, IMD, Internal Medicine
 Mullins, Zachariah, 45561355, PSY, Psychiatry
+Mullins, Zachariah, 97980454, IMD, Internal Medicine
 Mullins, Zaylee, 93620530, XXX, NOT_MATCHED
 Munoz, Abel, 63533647, XXX, NOT_MATCHED
 Munoz, Alfredo, 47474034, XXX, NOT_MATCHED
@@ -14940,8 +14940,8 @@ Munoz, Levi, 79002986, IMD, Internal Medicine
 Munoz, Lily, 73989500, FMD, Family Medicine
 Munoz, Madeline, 95183309, XXX, NOT_MATCHED
 Munoz, Makayla, 93510542, FMD, Family Medicine
-Munoz, Maxine, 89595412, FMD, Family Medicine
 Munoz, Maxine, 63290041, IMD, Internal Medicine
+Munoz, Maxine, 89595412, FMD, Family Medicine
 Munoz, Oaklee, 78668222, XXX, NOT_MATCHED
 Munoz, Raelyn, 78745371, FMD, Family Medicine
 Munoz, Raphael, 30458769, NRS, Neurosurgery
@@ -14986,8 +14986,8 @@ Murillo, Kara, 41793614, IMD, Internal Medicine
 Murillo, Keanu, 31422974, FMD, Family Medicine
 Murillo, Keaton, 67880611, XXX, NOT_MATCHED
 Murillo, Keegan, 99423807, EMD, Emergency Medicine
-Murillo, Kole, 78691569, XXX, NOT_MATCHED
 Murillo, Kole, 73936272, XXX, NOT_MATCHED
+Murillo, Kole, 78691569, XXX, NOT_MATCHED
 Murillo, Landyn, 99483405, IMD, Internal Medicine
 Murillo, Lucca, 93044818, FMD, Family Medicine
 Murillo, Makenna, 26421942, OBG, Obstetrics and Gynecology
@@ -15037,8 +15037,8 @@ Murphy, Milani, 21812735, FMD, Family Medicine
 Murphy, Myles, 35958663, XXX, NOT_MATCHED
 Murphy, Nash, 42282740, IMD, Internal Medicine
 Murphy, Nylah, 86628717, FMD, Family Medicine
-Murphy, Oakley, 99536536, XXX, NOT_MATCHED
 Murphy, Oakley, 51418569, OBG, Obstetrics and Gynecology
+Murphy, Oakley, 99536536, XXX, NOT_MATCHED
 Murphy, Pedro, 43681261, FMD, Family Medicine
 Murphy, Raymond, 40889717, NRO, Neurology
 Murphy, Rebekah, 45011020, IMD, Internal Medicine
@@ -15098,8 +15098,8 @@ Murray, Matthew, 95748138, FMD, Family Medicine
 Murray, Max, 38396658, XXX, NOT_MATCHED
 Murray, Melanie, 40251426, FMD, Family Medicine
 Murray, Nehemiah, 35275630, FMD, Family Medicine
-Murray, Niko, 51339288, FMD, Family Medicine
 Murray, Niko, 24192989, XXX, NOT_MATCHED
+Murray, Niko, 51339288, FMD, Family Medicine
 Murray, Nikolai, 39671784, XXX, NOT_MATCHED
 Murray, Piper, 49886392, XXX, NOT_MATCHED
 Murray, Princess, 98425527, DCP, Diagnostic and Clinical Pathology
@@ -15220,8 +15220,8 @@ Nava, Gracelyn, 34680422, DRA, Diagnostic Radiology
 Nava, Grant, 49941636, FMD, Family Medicine
 Nava, Griffin, 85210236, OBG, Obstetrics and Gynecology
 Nava, Gunner, 79571928, XXX, NOT_MATCHED
-Nava, Hailey, 67360856, XXX, NOT_MATCHED
 Nava, Hailey, 83611538, IMD, Internal Medicine
+Nava, Hailey, 67360856, XXX, NOT_MATCHED
 Nava, Harlem, 51293394, DMT, Dermatology
 Nava, Heath, 47236305, IMD, Internal Medicine
 Nava, Indie, 11678607, FMD, Family Medicine
@@ -15670,8 +15670,8 @@ Nielsen, Dakota, 59980800, XXX, NOT_MATCHED
 Nielsen, Dean, 98291545, FMD, Family Medicine
 Nielsen, Desmond, 36403633, XXX, NOT_MATCHED
 Nielsen, Dion, 53259163, XXX, NOT_MATCHED
-Nielsen, Eloise, 30388796, FMD, Family Medicine
 Nielsen, Eloise, 51995270, XXX, NOT_MATCHED
+Nielsen, Eloise, 30388796, FMD, Family Medicine
 Nielsen, Emilio, 70005347, FMD, Family Medicine
 Nielsen, Forrest, 95377266, FMD, Family Medicine
 Nielsen, Isaac, 34321624, XXX, NOT_MATCHED
@@ -15715,8 +15715,8 @@ Nixon, Bodie, 66535986, PDT, Pediatrics
 Nixon, Bridger, 72242937, FMD, Family Medicine
 Nixon, Brittany, 44687201, FMD, Family Medicine
 Nixon, Bryce, 31715108, XXX, NOT_MATCHED
-Nixon, Calliope, 75945263, XXX, NOT_MATCHED
 Nixon, Calliope, 59462959, FMD, Family Medicine
+Nixon, Calliope, 75945263, XXX, NOT_MATCHED
 Nixon, Danielle, 93157484, FMD, Family Medicine
 Nixon, Eliezer, 87027052, PSU, Plastic Surgery
 Nixon, Emberly, 56502844, XXX, NOT_MATCHED
@@ -15782,8 +15782,8 @@ Noble, Juliet, 34584521, XXX, NOT_MATCHED
 Noble, Kaylani, 23164693, XXX, NOT_MATCHED
 Noble, Kimora, 68533397, XXX, NOT_MATCHED
 Noble, King, 94944735, ANT, Anesthesiology
-Noble, Mekhi, 69549703, FMD, Family Medicine
 Noble, Mekhi, 45273760, OPH, Ophthalmology
+Noble, Mekhi, 69549703, FMD, Family Medicine
 Noble, Naomi, 49792540, PSY, Psychiatry
 Noble, Pedro, 19100077, FMD, Family Medicine
 Noble, Phoenix, 30367324, PSY, Psychiatry
@@ -15837,8 +15837,8 @@ Nolan, Van, 34450716, PSY, Psychiatry
 Nolan, Violeta, 12290324, XXX, NOT_MATCHED
 Nolan, Violette, 18253271, FMD, Family Medicine
 Nolan, Warren, 88833576, IMD, Internal Medicine
-Norman, Aaron, 84558722, XXX, NOT_MATCHED
 Norman, Aaron, 39998420, FMD, Family Medicine
+Norman, Aaron, 84558722, XXX, NOT_MATCHED
 Norman, Abdullah, 45517901, PHF, Public Health and Preventive Family Medicine
 Norman, Addilyn, 45403616, XXX, NOT_MATCHED
 Norman, Adrianna, 44220483, FMD, Family Medicine
@@ -15999,14 +15999,14 @@ Norton, Kyng, 39752218, FMD, Family Medicine
 Norton, Lennox, 11083746, FMD, Family Medicine
 Norton, Levi, 82243805, XXX, NOT_MATCHED
 Norton, Lydia, 56033513, XXX, NOT_MATCHED
-Norton, Lyric, 67443513, IMD, Internal Medicine
 Norton, Lyric, 64859557, XXX, NOT_MATCHED
+Norton, Lyric, 67443513, IMD, Internal Medicine
 Norton, Mia, 16578742, PHF, Public Health and Preventive Family Medicine
 Norton, Noel, 81006337, DRA, Diagnostic Radiology
 Norton, Nola, 69050362, FMD, Family Medicine
 Norton, Raiden, 45636887, XXX, NOT_MATCHED
-Norton, Reign, 87378757, OBG, Obstetrics and Gynecology
 Norton, Reign, 67813703, XXX, NOT_MATCHED
+Norton, Reign, 87378757, OBG, Obstetrics and Gynecology
 Norton, Riley, 16929079, FMD, Family Medicine
 Norton, Rohan, 20695557, XXX, NOT_MATCHED
 Norton, Rory, 96647364, NRO, Neurology
@@ -16234,8 +16234,8 @@ Oliver, Sean, 75870126, PSY, Psychiatry
 Oliver, Simone, 84953888, FMD, Family Medicine
 Oliver, Sloan, 75378440, XXX, NOT_MATCHED
 Oliver, Sunny, 86909483, XXX, NOT_MATCHED
-Oliver, Zain, 53111627, ANT, Anesthesiology
 Oliver, Zain, 68416461, DMP, Diagnostic and Molecular Pathology
+Oliver, Zain, 53111627, ANT, Anesthesiology
 Oliver, Zaria, 50736524, XXX, NOT_MATCHED
 Oliver, Zelda, 86401344, FMD, Family Medicine
 Olsen, Alberto, 64277582, PDT, Pediatrics
@@ -16494,8 +16494,8 @@ Ortiz, Ephraim, 94323960, NRO, Neurology
 Ortiz, Hadley, 46412408, FMD, Family Medicine
 Ortiz, Hamza, 52293585, ANT, Anesthesiology
 Ortiz, Hank, 84120296, PHP, Public Health and Preventive Medicine
-Ortiz, Hanna, 81519060, FMD, Family Medicine
 Ortiz, Hanna, 13307038, IMD, Internal Medicine
+Ortiz, Hanna, 81519060, FMD, Family Medicine
 Ortiz, Harlow, 22643927, FMD, Family Medicine
 Ortiz, Hayden, 98567067, PSY, Psychiatry
 Ortiz, Hayden, 29194750, PSY, Psychiatry
@@ -16521,8 +16521,8 @@ Ortiz, Robert, 49057452, FMD, Family Medicine
 Ortiz, Treasure, 99282677, FMD, Family Medicine
 Ortiz, Tristan, 27835900, FMD, Family Medicine
 Ortiz, Uriel, 27758671, FMD, Family Medicine
-Ortiz, Valery, 74276461, FMD, Family Medicine
 Ortiz, Valery, 34840827, FMD, Family Medicine
+Ortiz, Valery, 74276461, FMD, Family Medicine
 Ortiz, Viviana, 61359814, DRA, Diagnostic Radiology
 Ortiz, Will, 25691394, IMD, Internal Medicine
 Ortiz, William, 98764310, FMD, Family Medicine
@@ -16597,8 +16597,8 @@ Owen, Isabelle, 85947148, XXX, NOT_MATCHED
 Owen, Jackson, 40872237, FMD, Family Medicine
 Owen, Jasper, 53507128, XXX, NOT_MATCHED
 Owen, Kamdyn, 98394437, DMP, Diagnostic and Molecular Pathology
-Owen, Kannon, 68636166, XXX, NOT_MATCHED
 Owen, Kannon, 19321376, XXX, NOT_MATCHED
+Owen, Kannon, 68636166, XXX, NOT_MATCHED
 Owen, Kaylee, 33703324, FMD, Family Medicine
 Owen, Kellan, 92242432, XXX, NOT_MATCHED
 Owen, Kiaan, 77007284, XXX, NOT_MATCHED
@@ -16652,8 +16652,8 @@ Owens, Mordechai, 33218729, XXX, NOT_MATCHED
 Owens, Payton, 95957108, FMD, Family Medicine
 Owens, Penny, 63030964, FMD, Family Medicine
 Owens, Quinn, 41846940, XXX, NOT_MATCHED
-Owens, Remy, 60380890, FMD, Family Medicine
 Owens, Remy, 70185686, DRA, Diagnostic Radiology
+Owens, Remy, 60380890, FMD, Family Medicine
 Owens, Reuben, 16995155, FMD, Family Medicine
 Owens, Sabrina, 63393271, IMD, Internal Medicine
 Owens, Zayne, 70724077, PDT, Pediatrics
@@ -16993,8 +16993,8 @@ Pace, London, 34224041, EMD, Emergency Medicine
 Pace, Malaysia, 87667333, FMD, Family Medicine
 Pace, Maria, 32703934, FMD, Family Medicine
 Pace, Miley, 52991069, FMD, Family Medicine
-Pace, Muhammad, 81475645, XXX, NOT_MATCHED
 Pace, Muhammad, 83155316, XXX, NOT_MATCHED
+Pace, Muhammad, 81475645, XXX, NOT_MATCHED
 Pace, Nicole, 38581344, XXX, NOT_MATCHED
 Pace, Raegan, 84439553, DMT, Dermatology
 Pace, Raelyn, 63032157, FMD, Family Medicine
@@ -17041,8 +17041,8 @@ Pacheco, Omar, 82980753, XXX, NOT_MATCHED
 Pacheco, Randy, 27615254, URO, Urology
 Pacheco, Raymond, 58761398, DMP, Diagnostic and Molecular Pathology
 Pacheco, River, 82578274, NRO, Neurology
-Pacheco, Rosa, 10748652, FMD, Family Medicine
 Pacheco, Rosa, 12551680, XXX, NOT_MATCHED
+Pacheco, Rosa, 10748652, FMD, Family Medicine
 Pacheco, Skye, 55013779, OPH, Ophthalmology
 Pacheco, Tommy, 63025398, ANT, Anesthesiology
 Pacheco, Travis, 48768748, IMD, Internal Medicine
@@ -17169,8 +17169,8 @@ Palacios, Scott, 75049256, FMD, Family Medicine
 Palacios, Sean, 86748629, IMD, Internal Medicine
 Palacios, Sienna, 54073111, FMD, Family Medicine
 Palacios, Soren, 90820887, IMD, Internal Medicine
-Palacios, Treasure, 68542920, FMD, Family Medicine
 Palacios, Treasure, 69973432, DRA, Diagnostic Radiology
+Palacios, Treasure, 68542920, FMD, Family Medicine
 Palacios, Valeria, 30015996, IMD, Internal Medicine
 Palacios, Veda, 59080745, FMD, Family Medicine
 Palacios, Willie, 77225554, FMD, Family Medicine
@@ -17622,8 +17622,8 @@ Patrick, Myla, 86518778, GSU, General Surgery
 Patrick, Nehemiah, 97466076, PSY, Psychiatry
 Patrick, Paul, 71341624, NRO, Neurology
 Patrick, Rebecca, 98732791, ORS, Orthopedic Surgery
-Patrick, Romina, 20102762, FMD, Family Medicine
 Patrick, Romina, 17527597, PDT, Pediatrics
+Patrick, Romina, 20102762, FMD, Family Medicine
 Patrick, Santana, 14759477, FMD, Family Medicine
 Patrick, Silas, 56949981, FMD, Family Medicine
 Patrick, Simon, 28886700, PSY, Psychiatry
@@ -17658,8 +17658,8 @@ Patterson, Jamari, 68140369, XXX, NOT_MATCHED
 Patterson, Jamari, 35117889, IMD, Internal Medicine
 Patterson, Jayla, 19451096, MGG, Medical Genetics and Genomics
 Patterson, Jaylin, 88276463, FMD, Family Medicine
-Patterson, Kathryn, 27221155, FMD, Family Medicine
 Patterson, Kathryn, 55169533, FMD, Family Medicine
+Patterson, Kathryn, 27221155, FMD, Family Medicine
 Patterson, Kaysen, 58081517, XXX, NOT_MATCHED
 Patterson, Maggie, 87113833, IMD, Internal Medicine
 Patterson, Matthew, 89964244, XXX, NOT_MATCHED
@@ -17867,8 +17867,8 @@ Pearson, Jocelyn, 68261925, XXX, NOT_MATCHED
 Pearson, Kade, 49468480, URO, Urology
 Pearson, Karter, 33046592, IMD, Internal Medicine
 Pearson, Kelsey, 13127996, FMD, Family Medicine
-Pearson, Kenzie, 35179988, PSU, Plastic Surgery
 Pearson, Kenzie, 80514234, OTO, Otolaryngology - Head and Neck Surgery
+Pearson, Kenzie, 35179988, PSU, Plastic Surgery
 Pearson, Kinsley, 59791550, PDT, Pediatrics
 Pearson, Kylee, 85461871, XXX, NOT_MATCHED
 Pearson, Louis, 63633604, XXX, NOT_MATCHED
@@ -17892,8 +17892,8 @@ Pearson, Valerie, 17622394, FMD, Family Medicine
 Pearson, Zev, 66486676, IMD, Internal Medicine
 Pearson, Zola, 60628927, FMD, Family Medicine
 Peck, Ailani, 86307659, PSY, Psychiatry
-Peck, Alan, 82542087, FMD, Family Medicine
 Peck, Alan, 38262875, NPA, Neuropathology
+Peck, Alan, 82542087, FMD, Family Medicine
 Peck, Amari, 54570208, FMD, Family Medicine
 Peck, Aziel, 39577502, PDT, Pediatrics
 Peck, Aziel, 74423201, IMD, Internal Medicine
@@ -17985,8 +17985,8 @@ Pena, Khari, 88342859, FMD, Family Medicine
 Pena, Korbin, 73316139, PMR, Physical Medicine & Rehabilitation
 Pena, Kylee, 48573778, FMD, Family Medicine
 Pena, Louise, 22477336, FMD, Family Medicine
-Pena, Luke, 42949096, FMD, Family Medicine
 Pena, Luke, 19125467, PSY, Psychiatry
+Pena, Luke, 42949096, FMD, Family Medicine
 Pena, Mariam, 99003337, PSY, Psychiatry
 Pena, Mateo, 29114991, FMD, Family Medicine
 Pena, Mathias, 77290874, ORS, Orthopedic Surgery
@@ -17997,8 +17997,8 @@ Pena, Reed, 92379839, PDT, Pediatrics
 Pena, Rey, 27788913, EMD, Emergency Medicine
 Pena, Rhys, 94206284, ANT, Anesthesiology
 Pena, Sterling, 40037051, PSY, Psychiatry
-Pena, Tiffany, 34965092, FMD, Family Medicine
 Pena, Tiffany, 25740148, ANT, Anesthesiology
+Pena, Tiffany, 34965092, FMD, Family Medicine
 Pena, Tomas, 13032645, FMD, Family Medicine
 Pena, Tripp, 78920037, FMD, Family Medicine
 Pennington, Addisyn, 95078933, OBG, Obstetrics and Gynecology
@@ -18040,8 +18040,8 @@ Pennington, Kameron, 95408462, FMD, Family Medicine
 Pennington, Kensley, 14247415, FMD, Family Medicine
 Pennington, Larry, 96526701, FMD, Family Medicine
 Pennington, Leyla, 31247764, OBG, Obstetrics and Gynecology
-Pennington, Lilianna, 55949610, XXX, NOT_MATCHED
 Pennington, Lilianna, 33544538, IMD, Internal Medicine
+Pennington, Lilianna, 55949610, XXX, NOT_MATCHED
 Pennington, Lillian, 32939959, XXX, NOT_MATCHED
 Pennington, Makenna, 90264920, ORS, Orthopedic Surgery
 Pennington, Martin, 89784414, FMD, Family Medicine
@@ -18076,8 +18076,8 @@ Peralta, Bode, 49407752, FMD, Family Medicine
 Peralta, Briggs, 61181804, XXX, NOT_MATCHED
 Peralta, Brooklyn, 43111137, IMD, Internal Medicine
 Peralta, Carolina, 15815626, FMD, Family Medicine
-Peralta, Cayden, 10742144, PSY, Psychiatry
 Peralta, Cayden, 58354589, PDT, Pediatrics
+Peralta, Cayden, 10742144, PSY, Psychiatry
 Peralta, Chandler, 24594879, FMD, Family Medicine
 Peralta, Chloe, 92742843, FMD, Family Medicine
 Peralta, Colten, 71890819, ANT, Anesthesiology
@@ -18117,8 +18117,8 @@ Peralta, Selene, 67207853, FMD, Family Medicine
 Peralta, Sergio, 66428497, FMD, Family Medicine
 Peralta, Victor, 79445504, FMD, Family Medicine
 Peralta, Zyaire, 28331994, FMD, Family Medicine
-Perez, Alan, 30622114, XXX, NOT_MATCHED
 Perez, Alan, 60354492, IMD, Internal Medicine
+Perez, Alan, 30622114, XXX, NOT_MATCHED
 Perez, Amoura, 68564255, FMD, Family Medicine
 Perez, Aspen, 16481801, ORS, Orthopedic Surgery
 Perez, Atlas, 52525964, XXX, NOT_MATCHED
@@ -18303,8 +18303,8 @@ Peters, Bode, 36200290, PSY, Psychiatry
 Peters, Brynleigh, 67003090, XXX, NOT_MATCHED
 Peters, Cameron, 76514890, FMD, Family Medicine
 Peters, Chris, 98006312, XXX, NOT_MATCHED
-Peters, Dallas, 80249307, PDR, Pediatrics - Research Track
 Peters, Dallas, 41632267, IMD, Internal Medicine
+Peters, Dallas, 80249307, PDR, Pediatrics - Research Track
 Peters, Dorothy, 85011650, FMD, Family Medicine
 Peters, Eileen, 94852443, XXX, NOT_MATCHED
 Peters, Emmalyn, 49379865, OPH, Ophthalmology
@@ -18375,9 +18375,9 @@ Petersen, Harley, 48873374, XXX, NOT_MATCHED
 Petersen, Heath, 70914143, IMD, Internal Medicine
 Petersen, Israel, 88723858, URO, Urology
 Petersen, Judah, 42552084, DMT, Dermatology
+Petersen, Justice, 95013790, IMD, Internal Medicine
 Petersen, Justice, 75401379, PDT, Pediatrics
 Petersen, Justice, 54683152, URO, Urology
-Petersen, Justice, 95013790, IMD, Internal Medicine
 Petersen, Keenan, 88112576, IMD, Internal Medicine
 Petersen, Kelly, 11158596, NRS, Neurosurgery
 Petersen, Khalil, 53887783, GSU, General Surgery
@@ -18474,8 +18474,8 @@ Pham, Bo, 39134137, XXX, NOT_MATCHED
 Pham, Brock, 52875663, DMP, Diagnostic and Molecular Pathology
 Pham, Byron, 79904848, PSY, Psychiatry
 Pham, Camryn, 50012797, FMD, Family Medicine
-Pham, Cannon, 69622450, PDT, Pediatrics
 Pham, Cannon, 76281191, FMD, Family Medicine
+Pham, Cannon, 69622450, PDT, Pediatrics
 Pham, Demi, 74092327, PSY, Psychiatry
 Pham, Emberly, 70681290, XXX, NOT_MATCHED
 Pham, Emerie, 79015506, FMD, Family Medicine
@@ -18713,8 +18713,8 @@ Pierce, Kamari, 70038885, FMD, Family Medicine
 Pierce, Karen, 90621595, FMD, Family Medicine
 Pierce, Kayden, 64404438, PMR, Physical Medicine & Rehabilitation
 Pierce, Keenan, 33503296, FMD, Family Medicine
-Pierce, Kenzo, 27846280, FMD, Family Medicine
 Pierce, Kenzo, 21182023, XXX, NOT_MATCHED
+Pierce, Kenzo, 27846280, FMD, Family Medicine
 Pierce, Khalid, 72658379, ANT, Anesthesiology
 Pierce, Kimora, 26124736, IMD, Internal Medicine
 Pierce, Larry, 26052947, URO, Urology
@@ -18978,8 +18978,8 @@ Ponce, Eileen, 36880721, XXX, NOT_MATCHED
 Ponce, Eliseo, 41082368, IMD, Internal Medicine
 Ponce, Ellis, 33181773, IMD, Internal Medicine
 Ponce, Emmalynn, 84690289, XXX, NOT_MATCHED
-Ponce, Everett, 85831551, PDT, Pediatrics
 Ponce, Everett, 21155216, XXX, NOT_MATCHED
+Ponce, Everett, 85831551, PDT, Pediatrics
 Ponce, Frankie, 87576030, FMD, Family Medicine
 Ponce, Genevieve, 18467843, FMD, Family Medicine
 Ponce, George, 17219625, FMD, Family Medicine
@@ -19129,8 +19129,8 @@ Porter, Ivanna, 87577919, FMD, Family Medicine
 Porter, Jamari, 32350850, OPH, Ophthalmology
 Porter, Jordan, 74570307, URO, Urology
 Porter, Josiah, 69618891, FMD, Family Medicine
-Porter, Jovie, 24761765, IMD, Internal Medicine
 Porter, Jovie, 79701840, XXX, NOT_MATCHED
+Porter, Jovie, 24761765, IMD, Internal Medicine
 Porter, Kade, 94388082, FMD, Family Medicine
 Porter, Kaiden, 95308789, FMD, Family Medicine
 Porter, Kayleigh, 30650023, IMD, Internal Medicine
@@ -19840,8 +19840,8 @@ Quintana, Kyra, 38785548, FMD, Family Medicine
 Quintana, Maximus, 18635650, FMD, Family Medicine
 Quintana, Mckinley, 92556550, PSY, Psychiatry
 Quintana, Miriam, 74918324, FMD, Family Medicine
-Quintana, Nikolas, 10804153, FMD, Family Medicine
 Quintana, Nikolas, 19254460, XXX, NOT_MATCHED
+Quintana, Nikolas, 10804153, FMD, Family Medicine
 Quintana, Opal, 12173072, IMD, Internal Medicine
 Quintana, Oscar, 90125197, IMD, Internal Medicine
 Quintana, Paris, 74098677, FMD, Family Medicine
@@ -20026,8 +20026,8 @@ Ramsey, Harris, 85441670, XXX, NOT_MATCHED
 Ramsey, Harry, 39377947, XXX, NOT_MATCHED
 Ramsey, Ila, 12250227, ANT, Anesthesiology
 Ramsey, Ismael, 40934161, FMD, Family Medicine
-Ramsey, Kade, 65581140, FMD, Family Medicine
 Ramsey, Kade, 34246628, FMD, Family Medicine
+Ramsey, Kade, 65581140, FMD, Family Medicine
 Ramsey, Kamari, 62943784, FMD, Family Medicine
 Ramsey, Karter, 88392940, XXX, NOT_MATCHED
 Ramsey, Khari, 15427862, XXX, NOT_MATCHED
@@ -20103,8 +20103,8 @@ Randolph, Coen, 16417203, XXX, NOT_MATCHED
 Randolph, Destiny, 39710001, FMD, Family Medicine
 Randolph, Eden, 93609532, FMD, Family Medicine
 Randolph, Elena, 10643420, XXX, NOT_MATCHED
-Randolph, Emerson, 82173367, XXX, NOT_MATCHED
 Randolph, Emerson, 25558202, PSY, Psychiatry
+Randolph, Emerson, 82173367, XXX, NOT_MATCHED
 Randolph, Emiliano, 81251010, IMD, Internal Medicine
 Randolph, Ethan, 66463395, DMP, Diagnostic and Molecular Pathology
 Randolph, Evelyn, 60520757, XXX, NOT_MATCHED
@@ -20186,8 +20186,8 @@ Rasmussen, Alora, 17268950, FMD, Family Medicine
 Rasmussen, Arielle, 28918111, FMD, Family Medicine
 Rasmussen, Armani, 85973279, FMD, Family Medicine
 Rasmussen, Caiden, 21437932, XXX, NOT_MATCHED
-Rasmussen, Caleb, 39443837, FMD, Family Medicine
 Rasmussen, Caleb, 85401978, PDT, Pediatrics
+Rasmussen, Caleb, 39443837, FMD, Family Medicine
 Rasmussen, Callahan, 24952982, XXX, NOT_MATCHED
 Rasmussen, Calliope, 79903578, FMD, Family Medicine
 Rasmussen, Carolina, 51192033, FMD, Family Medicine
@@ -20222,8 +20222,8 @@ Rasmussen, Scarlett, 49784001, FMD, Family Medicine
 Rasmussen, Seth, 76993286, XXX, NOT_MATCHED
 Rasmussen, Shepard, 70175535, FMD, Family Medicine
 Rasmussen, Stephen, 67649278, XXX, NOT_MATCHED
-Rasmussen, Stormi, 84260684, XXX, NOT_MATCHED
 Rasmussen, Stormi, 27222253, XXX, NOT_MATCHED
+Rasmussen, Stormi, 84260684, XXX, NOT_MATCHED
 Rasmussen, Sutton, 64581639, FMD, Family Medicine
 Rasmussen, Tessa, 99661909, CSU, Cardiac Surgery
 Rasmussen, Thalia, 48954667, FMD, Family Medicine
@@ -20301,8 +20301,8 @@ Raymond, Evelyn, 93804796, IMD, Internal Medicine
 Raymond, Ezequiel, 60033539, DMP, Diagnostic and Molecular Pathology
 Raymond, Francisco, 86891489, EMD, Emergency Medicine
 Raymond, Franklin, 57618234, XXX, NOT_MATCHED
-Raymond, Grant, 90600744, IMD, Internal Medicine
 Raymond, Grant, 67924876, IMD, Internal Medicine
+Raymond, Grant, 90600744, IMD, Internal Medicine
 Raymond, Harvey, 73607984, IMD, Internal Medicine
 Raymond, Israel, 42953789, XXX, NOT_MATCHED
 Raymond, Jasmine, 25582379, IMD, Internal Medicine
@@ -20324,8 +20324,8 @@ Raymond, Margot, 24712186, PSY, Psychiatry
 Raymond, Memphis, 74579892, PDT, Pediatrics
 Raymond, Miguel, 43501369, IMD, Internal Medicine
 Raymond, Noel, 42577816, FMD, Family Medicine
-Raymond, Ophelia, 23770687, OBG, Obstetrics and Gynecology
 Raymond, Ophelia, 42871079, XXX, NOT_MATCHED
+Raymond, Ophelia, 23770687, OBG, Obstetrics and Gynecology
 Raymond, Pierce, 99610015, FMD, Family Medicine
 Raymond, Raven, 89302532, PSY, Psychiatry
 Raymond, Skyla, 20974888, XXX, NOT_MATCHED
@@ -20395,8 +20395,8 @@ Reese, Esperanza, 64364431, FMD, Family Medicine
 Reese, Estella, 90466666, PDT, Pediatrics
 Reese, Estrella, 79351445, XXX, NOT_MATCHED
 Reese, Eugene, 74411603, FMD, Family Medicine
-Reese, Hadleigh, 39542643, PSY, Psychiatry
 Reese, Hadleigh, 41039239, XXX, NOT_MATCHED
+Reese, Hadleigh, 39542643, PSY, Psychiatry
 Reese, Harrison, 98244136, XXX, NOT_MATCHED
 Reese, Helena, 24737784, IMD, Internal Medicine
 Reese, Isaiah, 48495397, FMD, Family Medicine
@@ -20423,8 +20423,8 @@ Reese, Ryland, 17578313, FMD, Family Medicine
 Reese, Yahir, 34469598, XXX, NOT_MATCHED
 Reese, Zariah, 33850337, IMD, Internal Medicine
 Reese, Zelda, 67199197, FMD, Family Medicine
-Reeves, Alani, 55007555, GSU, General Surgery
 Reeves, Alani, 98296136, FMD, Family Medicine
+Reeves, Alani, 55007555, GSU, General Surgery
 Reeves, Anakin, 83553294, FMD, Family Medicine
 Reeves, Aniyah, 88769764, XXX, NOT_MATCHED
 Reeves, Aria, 44207903, PSY, Psychiatry
@@ -20599,8 +20599,8 @@ Reyes, Paul, 34072828, FMD, Family Medicine
 Reyes, Rex, 79225278, IMD, Internal Medicine
 Reyes, Rey, 62067027, FMD, Family Medicine
 Reyes, Rhett, 10669031, FMD, Family Medicine
-Reyes, Rylan, 77581064, FMD, Family Medicine
 Reyes, Rylan, 75204749, DRA, Diagnostic Radiology
+Reyes, Rylan, 77581064, FMD, Family Medicine
 Reyes, Scarlette, 95583848, XXX, NOT_MATCHED
 Reyes, Serenity, 41437637, FMD, Family Medicine
 Reyes, Sienna, 56409720, PSY, Psychiatry
@@ -20859,8 +20859,8 @@ Rich, Sebastian, 28035081, IMD, Internal Medicine
 Rich, Serena, 32961589, EMD, Emergency Medicine
 Rich, Seven, 97261692, IMD, Internal Medicine
 Rich, Sloane, 61692759, XXX, NOT_MATCHED
-Rich, Vincenzo, 25466821, DMT, Dermatology
 Rich, Vincenzo, 52707882, IMD, Internal Medicine
+Rich, Vincenzo, 25466821, DMT, Dermatology
 Rich, Vivienne, 41265663, PSU, Plastic Surgery
 Rich, Zoe, 85790410, XXX, NOT_MATCHED
 Richard, Aila, 28315124, PMR, Physical Medicine & Rehabilitation
@@ -21220,8 +21220,8 @@ Rivera, Harmony, 99608102, XXX, NOT_MATCHED
 Rivera, Jada, 85062130, XXX, NOT_MATCHED
 Rivera, Jade, 82739517, PSU, Plastic Surgery
 Rivera, Jaiden, 21421648, FMD, Family Medicine
-Rivera, Jasiah, 23965320, ANT, Anesthesiology
 Rivera, Jasiah, 83182335, PSY, Psychiatry
+Rivera, Jasiah, 23965320, ANT, Anesthesiology
 Rivera, Jayden, 89223106, FMD, Family Medicine
 Rivera, Jaylen, 96880134, XXX, NOT_MATCHED
 Rivera, Jenesis, 33140949, PSU, Plastic Surgery
@@ -21383,8 +21383,8 @@ Robbins, Lexie, 10356308, IMD, Internal Medicine
 Robbins, Lorelei, 93835703, FMD, Family Medicine
 Robbins, Lorenzo, 28839497, IMD, Internal Medicine
 Robbins, Macy, 40962238, FMD, Family Medicine
-Robbins, Malakai, 78681034, PSY, Psychiatry
 Robbins, Malakai, 54920690, PDT, Pediatrics
+Robbins, Malakai, 78681034, PSY, Psychiatry
 Robbins, Maleah, 36880544, FMD, Family Medicine
 Robbins, Morgan, 98494728, FMD, Family Medicine
 Robbins, Nyomi, 72920780, IMD, Internal Medicine
@@ -21647,8 +21647,8 @@ Robles, Ximena, 64449940, FMD, Family Medicine
 Robles, Zoya, 65568195, ORS, Orthopedic Surgery
 Rocha, Aden, 62001248, IMD, Internal Medicine
 Rocha, Alanna, 31538675, FMD, Family Medicine
-Rocha, Aleah, 72378496, OBG, Obstetrics and Gynecology
 Rocha, Aleah, 72974295, IMD, Internal Medicine
+Rocha, Aleah, 72378496, OBG, Obstetrics and Gynecology
 Rocha, Armani, 72395533, FMD, Family Medicine
 Rocha, Athena, 39851114, PMR, Physical Medicine & Rehabilitation
 Rocha, Aubrey, 99940106, OBG, Obstetrics and Gynecology
@@ -21834,8 +21834,8 @@ Rogers, Spencer, 69848058, FMD, Family Medicine
 Rogers, Teresa, 74418935, FMD, Family Medicine
 Rogers, Theo, 29400492, XXX, NOT_MATCHED
 Rogers, Troy, 47570420, FMD, Family Medicine
-Rogers, Yahir, 61289790, ANT, Anesthesiology
 Rogers, Yahir, 66254375, XXX, NOT_MATCHED
+Rogers, Yahir, 61289790, ANT, Anesthesiology
 Rogers, Zander, 68848008, XXX, NOT_MATCHED
 Rojas, Abigail, 17723770, XXX, NOT_MATCHED
 Rojas, Alana, 96324103, XXX, NOT_MATCHED
@@ -22059,8 +22059,8 @@ Rosales, Zeke, 48458930, XXX, NOT_MATCHED
 Rosario, Adeline, 58070736, IMD, Internal Medicine
 Rosario, Alexandra, 61743410, FMD, Family Medicine
 Rosario, Amelie, 58060784, XXX, NOT_MATCHED
-Rosario, August, 82238582, MMI, Medical Microbiology
 Rosario, August, 53885884, MMI, Medical Microbiology
+Rosario, August, 82238582, MMI, Medical Microbiology
 Rosario, Aylin, 41584186, EMD, Emergency Medicine
 Rosario, Azariah, 71370549, PSY, Psychiatry
 Rosario, Azrael, 41539489, ANT, Anesthesiology
@@ -22111,8 +22111,8 @@ Rosas, Aliya, 22854099, EMD, Emergency Medicine
 Rosas, Angel, 31280407, ROC, Radiation Oncology
 Rosas, Arabella, 87999355, FMD, Family Medicine
 Rosas, Asher, 17386514, IMD, Internal Medicine
-Rosas, Ayleen, 15037067, IMD, Internal Medicine
 Rosas, Ayleen, 87197654, FMD, Family Medicine
+Rosas, Ayleen, 15037067, IMD, Internal Medicine
 Rosas, Benjamin, 91990519, FMD, Family Medicine
 Rosas, Braylon, 97159887, OTO, Otolaryngology - Head and Neck Surgery
 Rosas, Caleb, 55882617, PMR, Physical Medicine & Rehabilitation
@@ -22161,8 +22161,8 @@ Rose, Amos, 77471778, FMD, Family Medicine
 Rose, Ari, 21815286, XXX, NOT_MATCHED
 Rose, Arlo, 93281296, OBG, Obstetrics and Gynecology
 Rose, Bella, 85588756, FMD, Family Medicine
-Rose, Cal, 40846867, FMD, Family Medicine
 Rose, Cal, 65028955, FMD, Family Medicine
+Rose, Cal, 40846867, FMD, Family Medicine
 Rose, Callie, 61494029, XXX, NOT_MATCHED
 Rose, Cameron, 56376151, FMD, Family Medicine
 Rose, Daxton, 76331963, GSU, General Surgery
@@ -22229,8 +22229,8 @@ Ross, Edgar, 17598231, IMD, Internal Medicine
 Ross, Ellianna, 10621237, FMD, Family Medicine
 Ross, Elsa, 20670472, XXX, NOT_MATCHED
 Ross, Emilio, 97561000, XXX, NOT_MATCHED
-Ross, Flora, 12378838, FMD, Family Medicine
 Ross, Flora, 48407799, XXX, NOT_MATCHED
+Ross, Flora, 12378838, FMD, Family Medicine
 Ross, Graham, 84510718, IMD, Internal Medicine
 Ross, Hadassah, 49663856, FMD, Family Medicine
 Ross, Haisley, 96788317, XXX, NOT_MATCHED
@@ -22320,8 +22320,8 @@ Rowe, Baylee, 11876084, IMD, Internal Medicine
 Rowe, Brian, 15777934, PDT, Pediatrics
 Rowe, Bruno, 35507701, FMD, Family Medicine
 Rowe, Cadence, 68734790, FMD, Family Medicine
-Rowe, Chance, 34943999, DRA, Diagnostic Radiology
 Rowe, Chance, 87326805, OPH, Ophthalmology
+Rowe, Chance, 34943999, DRA, Diagnostic Radiology
 Rowe, Cory, 62867175, DRA, Diagnostic Radiology
 Rowe, Dallas, 16465592, FMD, Family Medicine
 Rowe, Elyse, 34748250, IMD, Internal Medicine
@@ -22454,9 +22454,9 @@ Rubio, Avianna, 93549273, XXX, NOT_MATCHED
 Rubio, Bo, 75578321, XXX, NOT_MATCHED
 Rubio, Brynlee, 79567801, ANT, Anesthesiology
 Rubio, Cason, 75973279, FMD, Family Medicine
-Rubio, Cassius, 99219593, XXX, NOT_MATCHED
 Rubio, Cassius, 14959575, FMD, Family Medicine
 Rubio, Cassius, 90326197, FMD, Family Medicine
+Rubio, Cassius, 99219593, XXX, NOT_MATCHED
 Rubio, Charlie, 65441856, IMD, Internal Medicine
 Rubio, Christina, 41946727, VSU, Vascular Surgery
 Rubio, Clarissa, 29803167, FMD, Family Medicine
@@ -22507,8 +22507,8 @@ Rubio, Salvatore, 72765243, FMD, Family Medicine
 Rubio, Veda, 67718714, XXX, NOT_MATCHED
 Rubio, Waylon, 64684934, PSY, Psychiatry
 Rubio, Yasmin, 88623681, IMD, Internal Medicine
-Rubio, Yosef, 11438074, FMD, Family Medicine
 Rubio, Yosef, 71227064, XXX, NOT_MATCHED
+Rubio, Yosef, 11438074, FMD, Family Medicine
 Ruiz, Adan, 21279991, NMD, Nuclear Medicine
 Ruiz, Alaric, 39093370, OPH, Ophthalmology
 Ruiz, Anderson, 88262028, XXX, NOT_MATCHED
@@ -22552,8 +22552,8 @@ Ruiz, Maximiliano, 29717632, FMD, Family Medicine
 Ruiz, Megan, 31797188, FMD, Family Medicine
 Ruiz, Mikaela, 31616955, XXX, NOT_MATCHED
 Ruiz, Nathan, 33330328, NRS, Neurosurgery
-Ruiz, Nicole, 60641614, OBG, Obstetrics and Gynecology
 Ruiz, Nicole, 23701432, DRA, Diagnostic Radiology
+Ruiz, Nicole, 60641614, OBG, Obstetrics and Gynecology
 Ruiz, Nova, 40031364, ANT, Anesthesiology
 Ruiz, Rylan, 87224613, IMD, Internal Medicine
 Ruiz, Sabrina, 45523797, GSU, General Surgery
@@ -22680,8 +22680,8 @@ Russo, Donovan, 69977892, IMD, Internal Medicine
 Russo, Genevieve, 47625185, DRA, Diagnostic Radiology
 Russo, Gwen, 33754601, PSY, Psychiatry
 Russo, Harley, 74501654, FMD, Family Medicine
-Russo, Idris, 82731995, FMD, Family Medicine
 Russo, Idris, 96398678, FMD, Family Medicine
+Russo, Idris, 82731995, FMD, Family Medicine
 Russo, Issac, 39083504, XXX, NOT_MATCHED
 Russo, Ivory, 21180602, FMD, Family Medicine
 Russo, James, 67100891, XXX, NOT_MATCHED
@@ -22694,8 +22694,8 @@ Russo, Kallie, 50053508, FMD, Family Medicine
 Russo, Kane, 83651119, IMD, Internal Medicine
 Russo, Kashton, 60277923, FMD, Family Medicine
 Russo, Kashton, 35753252, FMD, Family Medicine
-Russo, Kelvin, 12087102, FMD, Family Medicine
 Russo, Kelvin, 27034500, MGG, Medical Genetics and Genomics
+Russo, Kelvin, 12087102, FMD, Family Medicine
 Russo, Kieran, 69707555, ANT, Anesthesiology
 Russo, Kohen, 88906939, FMD, Family Medicine
 Russo, Kristian, 87175123, XXX, NOT_MATCHED
@@ -22994,8 +22994,8 @@ Sampson, Kellan, 26470165, IMD, Internal Medicine
 Sampson, Kenzo, 54004054, IMD, Internal Medicine
 Sampson, Kolton, 70423411, OBG, Obstetrics and Gynecology
 Sampson, Kristopher, 98420319, OTO, Otolaryngology - Head and Neck Surgery
-Sampson, Logan, 71481535, FMD, Family Medicine
 Sampson, Logan, 37987279, IMD, Internal Medicine
+Sampson, Logan, 71481535, FMD, Family Medicine
 Sampson, Lorelei, 76775441, IMD, Internal Medicine
 Sampson, Lyra, 94063080, FMD, Family Medicine
 Sampson, Maisie, 86547893, XXX, NOT_MATCHED
@@ -23039,8 +23039,8 @@ Sanchez, Dani, 51426061, XXX, NOT_MATCHED
 Sanchez, Dylan, 20078141, FMD, Family Medicine
 Sanchez, Ernesto, 65835657, FMD, Family Medicine
 Sanchez, Halo, 37808921, FMD, Family Medicine
-Sanchez, Hugh, 59614210, XXX, NOT_MATCHED
 Sanchez, Hugh, 33805841, XXX, NOT_MATCHED
+Sanchez, Hugh, 59614210, XXX, NOT_MATCHED
 Sanchez, Jazmin, 89270170, XXX, NOT_MATCHED
 Sanchez, Jenna, 34449087, EMD, Emergency Medicine
 Sanchez, Juliana, 80866290, XXX, NOT_MATCHED
@@ -23118,8 +23118,8 @@ Sandoval, Beckett, 55760295, XXX, NOT_MATCHED
 Sandoval, Boden, 46878235, IMD, Internal Medicine
 Sandoval, Brittany, 75772138, DRA, Diagnostic Radiology
 Sandoval, Bruce, 48820659, FMD, Family Medicine
-Sandoval, Camilla, 46791247, PSY, Psychiatry
 Sandoval, Camilla, 34288185, GSU, General Surgery
+Sandoval, Camilla, 46791247, PSY, Psychiatry
 Sandoval, Cannon, 58102681, FMD, Family Medicine
 Sandoval, Case, 87180660, FMD, Family Medicine
 Sandoval, Cillian, 90919378, XXX, NOT_MATCHED
@@ -23406,8 +23406,8 @@ Savage, Chana, 61308321, XXX, NOT_MATCHED
 Savage, Clay, 27989337, PSU, Plastic Surgery
 Savage, Corey, 95735822, CSU, Cardiac Surgery
 Savage, Elias, 70055331, PDT, Pediatrics
-Savage, Elliot, 31992622, FMD, Family Medicine
 Savage, Elliot, 59580179, IMD, Internal Medicine
+Savage, Elliot, 31992622, FMD, Family Medicine
 Savage, Elliott, 24785607, FMD, Family Medicine
 Savage, Emerson, 96721673, XXX, NOT_MATCHED
 Savage, Gracelynn, 41031178, ANT, Anesthesiology
@@ -23844,8 +23844,8 @@ Scott, Calliope, 59086046, PDT, Pediatrics
 Scott, Daisy, 24178279, XXX, NOT_MATCHED
 Scott, Daleyza, 11586855, IMD, Internal Medicine
 Scott, Dane, 97518106, EMD, Emergency Medicine
-Scott, Denise, 53553745, FMD, Family Medicine
 Scott, Denise, 54238447, XXX, NOT_MATCHED
+Scott, Denise, 53553745, FMD, Family Medicine
 Scott, Dior, 69258198, XXX, NOT_MATCHED
 Scott, Eliza, 55291546, IMD, Internal Medicine
 Scott, Emiliano, 23532045, XXX, NOT_MATCHED
@@ -23904,8 +23904,8 @@ Sellers, Haylee, 36996198, XXX, NOT_MATCHED
 Sellers, Heidi, 99408411, XXX, NOT_MATCHED
 Sellers, Jakob, 41546951, FMD, Family Medicine
 Sellers, Jamie, 39580175, PSY, Psychiatry
-Sellers, Jasmine, 44710600, FMD, Family Medicine
 Sellers, Jasmine, 35541153, VSU, Vascular Surgery
+Sellers, Jasmine, 44710600, FMD, Family Medicine
 Sellers, Jessica, 66141976, XXX, NOT_MATCHED
 Sellers, Joel, 78900353, XXX, NOT_MATCHED
 Sellers, Juliet, 46698292, XXX, NOT_MATCHED
@@ -23948,8 +23948,8 @@ Serrano, Eddie, 70869621, FMD, Family Medicine
 Serrano, Eileen, 49050958, FMD, Family Medicine
 Serrano, Eithan, 12593476, IMD, Internal Medicine
 Serrano, Elliot, 92244371, FMD, Family Medicine
-Serrano, Esmeralda, 40984386, OPH, Ophthalmology
 Serrano, Esmeralda, 69102620, FMD, Family Medicine
+Serrano, Esmeralda, 40984386, OPH, Ophthalmology
 Serrano, Eve, 60345335, FMD, Family Medicine
 Serrano, Evelynn, 75969361, GSU, General Surgery
 Serrano, Ezra, 30803359, XXX, NOT_MATCHED
@@ -24042,8 +24042,8 @@ Shaffer, Drew, 55248128, ORS, Orthopedic Surgery
 Shaffer, Ember, 83057107, PMR, Physical Medicine & Rehabilitation
 Shaffer, Enoch, 13103217, HEP, Hematological Pathology
 Shaffer, Esteban, 40093946, XXX, NOT_MATCHED
-Shaffer, Fiona, 43293597, XXX, NOT_MATCHED
 Shaffer, Fiona, 80073893, FMD, Family Medicine
+Shaffer, Fiona, 43293597, XXX, NOT_MATCHED
 Shaffer, Frances, 52851371, XXX, NOT_MATCHED
 Shaffer, Hakeem, 55625035, XXX, NOT_MATCHED
 Shaffer, Irene, 51921465, IMD, Internal Medicine
@@ -24117,8 +24117,8 @@ Shah, Vera, 53339689, ANT, Anesthesiology
 Shah, Wayne, 63857823, FMD, Family Medicine
 Shah, Wynter, 53770473, URO, Urology
 Shah, Zeke, 54713729, FMD, Family Medicine
-Shah, Zev, 49894482, FMD, Family Medicine
 Shah, Zev, 34130523, GSU, General Surgery
+Shah, Zev, 49894482, FMD, Family Medicine
 Shannon, Abdullah, 19992528, FMD, Family Medicine
 Shannon, Addison, 53442752, XXX, NOT_MATCHED
 Shannon, Addyson, 17681764, XXX, NOT_MATCHED
@@ -24195,8 +24195,8 @@ Sharp, Naomi, 43251917, DRA, Diagnostic Radiology
 Sharp, Nathan, 20297858, DMP, Diagnostic and Molecular Pathology
 Sharp, Oakleigh, 55843006, IMD, Internal Medicine
 Sharp, Remy, 55632909, VSU, Vascular Surgery
-Sharp, Rory, 22570779, FMD, Family Medicine
 Sharp, Rory, 46815114, XXX, NOT_MATCHED
+Sharp, Rory, 22570779, FMD, Family Medicine
 Sharp, Royce, 24997715, IMD, Internal Medicine
 Sharp, Theo, 63327609, EMD, Emergency Medicine
 Sharp, Whitley, 69904580, IMD, Internal Medicine
@@ -24424,8 +24424,8 @@ Sheppard, Julien, 96920650, FMD, Family Medicine
 Sheppard, Kaitlyn, 33778941, XXX, NOT_MATCHED
 Sheppard, Kingston, 87402911, XXX, NOT_MATCHED
 Sheppard, Kye, 46278811, EMD, Emergency Medicine
-Sheppard, Kylen, 71677597, XXX, NOT_MATCHED
 Sheppard, Kylen, 27973526, FMD, Family Medicine
+Sheppard, Kylen, 71677597, XXX, NOT_MATCHED
 Sheppard, Larry, 32540396, PDT, Pediatrics
 Sheppard, Lawson, 97602125, XXX, NOT_MATCHED
 Sheppard, Liam, 73423928, IMD, Internal Medicine
@@ -24600,8 +24600,8 @@ Sierra, Jaxton, 54439340, PDT, Pediatrics
 Sierra, Jaxxon, 57443058, DRA, Diagnostic Radiology
 Sierra, Kairi, 37482019, IMD, Internal Medicine
 Sierra, Kaliyah, 23299816, FMD, Family Medicine
-Sierra, Kiana, 59623670, EMD, Emergency Medicine
 Sierra, Kiana, 20949679, FMD, Family Medicine
+Sierra, Kiana, 59623670, EMD, Emergency Medicine
 Sierra, Kylee, 36792854, FMD, Family Medicine
 Sierra, Lance, 88071511, XXX, NOT_MATCHED
 Sierra, Laney, 18955657, XXX, NOT_MATCHED
@@ -24629,8 +24629,8 @@ Sierra, Thiago, 25701149, FMD, Family Medicine
 Sierra, Troy, 84566074, XXX, NOT_MATCHED
 Sierra, Vienna, 28077573, ANT, Anesthesiology
 Silva, Addyson, 31816276, PDT, Pediatrics
-Silva, Alex, 45648962, XXX, NOT_MATCHED
 Silva, Alex, 51457250, XXX, NOT_MATCHED
+Silva, Alex, 45648962, XXX, NOT_MATCHED
 Silva, Andrew, 93289078, XXX, NOT_MATCHED
 Silva, Archie, 89806543, FMD, Family Medicine
 Silva, Averie, 74380290, FMD, Family Medicine
@@ -24970,10 +24970,10 @@ Singleton, Reyna, 56071875, IMD, Internal Medicine
 Singleton, Romeo, 96348751, PDT, Pediatrics
 Singleton, Romina, 68078194, FMD, Family Medicine
 Singleton, Ryann, 10096245, XXX, NOT_MATCHED
-Singleton, Sage, 75012732, XXX, NOT_MATCHED
 Singleton, Sage, 67268576, IMD, Internal Medicine
-Singleton, Xavier, 62520886, FMD, Family Medicine
+Singleton, Sage, 75012732, XXX, NOT_MATCHED
 Singleton, Xavier, 90489572, XXX, NOT_MATCHED
+Singleton, Xavier, 62520886, FMD, Family Medicine
 Singleton, Zhuri, 70736524, XXX, NOT_MATCHED
 Skinner, Ahmir, 16508893, FMD, Family Medicine
 Skinner, Ali, 94162501, PDT, Pediatrics
@@ -25035,8 +25035,8 @@ Sloan, Anais, 55594177, FMD, Family Medicine
 Sloan, Averi, 45229799, NRO, Neurology
 Sloan, Crew, 93475903, FMD, Family Medicine
 Sloan, Darius, 63820556, XXX, NOT_MATCHED
-Sloan, Dax, 83837519, XXX, NOT_MATCHED
 Sloan, Dax, 36026647, ANT, Anesthesiology
+Sloan, Dax, 83837519, XXX, NOT_MATCHED
 Sloan, Eden, 77336473, XXX, NOT_MATCHED
 Sloan, Elisha, 75321917, OBG, Obstetrics and Gynecology
 Sloan, Felipe, 48063622, XXX, NOT_MATCHED
@@ -25139,8 +25139,8 @@ Smith, Ellison, 52519913, PDT, Pediatrics
 Smith, Evangeline, 15164715, FMD, Family Medicine
 Smith, Ezra, 45660573, PSU, Plastic Surgery
 Smith, Fabian, 36878002, FMD, Family Medicine
-Smith, Fletcher, 82794227, FMD, Family Medicine
 Smith, Fletcher, 75584118, FMD, Family Medicine
+Smith, Fletcher, 82794227, FMD, Family Medicine
 Smith, Graysen, 21878082, XXX, NOT_MATCHED
 Smith, Haley, 96573423, PSU, Plastic Surgery
 Smith, Halo, 33666215, FMD, Family Medicine
@@ -25233,8 +25233,8 @@ Snow, Waylon, 93729242, XXX, NOT_MATCHED
 Snow, Zaria, 14548540, DMP, Diagnostic and Molecular Pathology
 Snyder, Adrian, 44798330, IMD, Internal Medicine
 Snyder, Aidan, 14159883, ANT, Anesthesiology
-Snyder, Alexa, 11339007, OBG, Obstetrics and Gynecology
 Snyder, Alexa, 14474480, FMD, Family Medicine
+Snyder, Alexa, 11339007, OBG, Obstetrics and Gynecology
 Snyder, Andy, 21346385, FMD, Family Medicine
 Snyder, Apollo, 22818478, XXX, NOT_MATCHED
 Snyder, Ari, 17979518, FMD, Family Medicine
@@ -25355,8 +25355,8 @@ Solomon, Enzo, 93806883, XXX, NOT_MATCHED
 Solomon, Ezra, 44659458, ROC, Radiation Oncology
 Solomon, Fernando, 63279017, NRO, Neurology
 Solomon, Finnegan, 59001272, FMD, Family Medicine
-Solomon, Halle, 81612361, DMT, Dermatology
 Solomon, Halle, 83843488, GSU, General Surgery
+Solomon, Halle, 81612361, DMT, Dermatology
 Solomon, Henley, 12371322, XXX, NOT_MATCHED
 Solomon, Hunter, 26284313, FMD, Family Medicine
 Solomon, Jaxen, 95277845, XXX, NOT_MATCHED
@@ -25448,8 +25448,8 @@ Soto, Franco, 71828039, FMD, Family Medicine
 Soto, Halle, 60954749, FMD, Family Medicine
 Soto, Harmoni, 42382037, FMD, Family Medicine
 Soto, Hugo, 36050271, FMD, Family Medicine
-Soto, Jackson, 75209217, XXX, NOT_MATCHED
 Soto, Jackson, 66210751, FMD, Family Medicine
+Soto, Jackson, 75209217, XXX, NOT_MATCHED
 Soto, Jasiah, 54520897, IMD, Internal Medicine
 Soto, Josephine, 53763315, XXX, NOT_MATCHED
 Soto, Julissa, 64817614, PSY, Psychiatry
@@ -25789,8 +25789,8 @@ Stanley, Rocky, 97144689, PSY, Psychiatry
 Stanley, Saul, 50492966, OBG, Obstetrics and Gynecology
 Stanley, Sawyer, 44849302, XXX, NOT_MATCHED
 Stanley, Scarlett, 25297187, DRA, Diagnostic Radiology
-Stanley, Sophia, 70935087, IMD, Internal Medicine
 Stanley, Sophia, 10257127, FMD, Family Medicine
+Stanley, Sophia, 70935087, IMD, Internal Medicine
 Stanley, Walker, 50476260, ORS, Orthopedic Surgery
 Stanley, Willow, 24353223, XXX, NOT_MATCHED
 Stanton, Adelaide, 29748078, FMD, Family Medicine
@@ -25837,8 +25837,8 @@ Stanton, Rio, 18864633, FMD, Family Medicine
 Stanton, Samson, 88399191, PSY, Psychiatry
 Stanton, Saul, 49558558, PDT, Pediatrics
 Stanton, Scarlette, 26962228, OBG, Obstetrics and Gynecology
-Stanton, Skylar, 88918108, XXX, NOT_MATCHED
 Stanton, Skylar, 15671507, IMD, Internal Medicine
+Stanton, Skylar, 88918108, XXX, NOT_MATCHED
 Stanton, Soren, 50969343, XXX, NOT_MATCHED
 Stanton, Thea, 51324854, IMD, Internal Medicine
 Stanton, Uriel, 40677237, FMD, Family Medicine
@@ -25936,8 +25936,8 @@ Steele, Raelyn, 51540423, FMD, Family Medicine
 Steele, Richard, 42392665, OTO, Otolaryngology - Head and Neck Surgery
 Steele, Roman, 64499317, NRO, Neurology
 Steele, Rose, 68105968, FMD, Family Medicine
-Steele, Ryann, 78291775, FMD, Family Medicine
 Steele, Ryann, 89329843, URO, Urology
+Steele, Ryann, 78291775, FMD, Family Medicine
 Steele, Sara, 96740993, XXX, NOT_MATCHED
 Steele, Skyler, 66982426, PDT, Pediatrics
 Steele, Sylvie, 47363737, IMD, Internal Medicine
@@ -25992,8 +25992,8 @@ Stein, Paris, 84804864, IMD, Internal Medicine
 Stein, Poppy, 39052579, FMD, Family Medicine
 Stein, Regina, 97335888, FMD, Family Medicine
 Stein, Rex, 57930105, PDT, Pediatrics
-Stein, Roger, 73344807, FMD, Family Medicine
 Stein, Roger, 55716211, FMD, Family Medicine
+Stein, Roger, 73344807, FMD, Family Medicine
 Stein, Salvatore, 63193763, FMD, Family Medicine
 Stein, Sterling, 91965374, FMD, Family Medicine
 Stein, Terrance, 50465159, IMD, Internal Medicine
@@ -26019,8 +26019,8 @@ Stephens, Clyde, 93738638, XXX, NOT_MATCHED
 Stephens, Creed, 29741536, FMD, Family Medicine
 Stephens, Dallas, 92587378, XXX, NOT_MATCHED
 Stephens, Drake, 30230527, URO, Urology
-Stephens, Elliott, 71494690, FMD, Family Medicine
 Stephens, Elliott, 60383662, XXX, NOT_MATCHED
+Stephens, Elliott, 71494690, FMD, Family Medicine
 Stephens, Enoch, 98169683, XXX, NOT_MATCHED
 Stephens, Ezra, 19726573, FMD, Family Medicine
 Stephens, Guadalupe, 56294378, XXX, NOT_MATCHED
@@ -26412,8 +26412,8 @@ Stout, Zoya, 65744885, FMD, Family Medicine
 Strickland, Alisson, 54952262, FMD, Family Medicine
 Strickland, Amani, 13912809, FMD, Family Medicine
 Strickland, Andres, 66893759, IMD, Internal Medicine
-Strickland, April, 55089034, FMD, Family Medicine
 Strickland, April, 51034555, FMD, Family Medicine
+Strickland, April, 55089034, FMD, Family Medicine
 Strickland, Asa, 95834353, FMD, Family Medicine
 Strickland, Ashley, 37723844, PDT, Pediatrics
 Strickland, Ashlynn, 27482137, FMD, Family Medicine
@@ -26439,8 +26439,8 @@ Strickland, Iris, 18659480, XXX, NOT_MATCHED
 Strickland, Isabel, 15614587, FMD, Family Medicine
 Strickland, Jackson, 40290187, FMD, Family Medicine
 Strickland, Jakobe, 38300005, FMD, Family Medicine
-Strickland, Jayceon, 85966166, XXX, NOT_MATCHED
 Strickland, Jayceon, 10294375, XXX, NOT_MATCHED
+Strickland, Jayceon, 85966166, XXX, NOT_MATCHED
 Strickland, Jocelyn, 89822106, FMD, Family Medicine
 Strickland, Justice, 98325060, FMD, Family Medicine
 Strickland, Kingsley, 70159556, FMD, Family Medicine
@@ -26460,8 +26460,8 @@ Strickland, Rafael, 35862183, PSY, Psychiatry
 Strickland, Rayden, 82134373, XXX, NOT_MATCHED
 Strickland, Reagan, 20720851, FMD, Family Medicine
 Strickland, Remi, 72761914, FMD, Family Medicine
-Strickland, Royal, 15406338, FMD, Family Medicine
 Strickland, Royal, 72281944, FMD, Family Medicine
+Strickland, Royal, 15406338, FMD, Family Medicine
 Strickland, Ryland, 70149331, XXX, NOT_MATCHED
 Strickland, Sage, 97413961, XXX, NOT_MATCHED
 Strickland, Sam, 14624821, FMD, Family Medicine
@@ -26488,8 +26488,8 @@ Strong, Dominick, 78214178, XXX, NOT_MATCHED
 Strong, Elliot, 39382199, DMP, Diagnostic and Molecular Pathology
 Strong, Ellison, 27084734, XXX, NOT_MATCHED
 Strong, Ember, 42650355, OBG, Obstetrics and Gynecology
-Strong, Frank, 45686638, ANT, Anesthesiology
 Strong, Frank, 42350363, XXX, NOT_MATCHED
+Strong, Frank, 45686638, ANT, Anesthesiology
 Strong, Gordon, 61527985, IMD, Internal Medicine
 Strong, Harley, 60479733, FMD, Family Medicine
 Strong, Hayley, 39978651, PSY, Psychiatry
@@ -26714,8 +26714,8 @@ Summers, Presley, 65222402, FMD, Family Medicine
 Summers, Reagan, 78901754, FMD, Family Medicine
 Summers, Robin, 63959678, IMD, Internal Medicine
 Summers, Rome, 64548755, EMD, Emergency Medicine
-Summers, Royal, 28957513, FMD, Family Medicine
 Summers, Royal, 85497378, IMD, Internal Medicine
+Summers, Royal, 28957513, FMD, Family Medicine
 Summers, Rylan, 89086356, FMD, Family Medicine
 Summers, Sloan, 60329990, FMD, Family Medicine
 Summers, Sterling, 98578436, PSY, Psychiatry
@@ -26939,8 +26939,8 @@ Tanner, Frances, 91794721, XXX, NOT_MATCHED
 Tanner, Griffin, 71986633, XXX, NOT_MATCHED
 Tanner, Hadassah, 16514399, XXX, NOT_MATCHED
 Tanner, Hallie, 84379369, FMD, Family Medicine
-Tanner, Jamari, 81419941, XXX, NOT_MATCHED
 Tanner, Jamari, 43998009, FMD, Family Medicine
+Tanner, Jamari, 81419941, XXX, NOT_MATCHED
 Tanner, Jayleen, 94366324, FMD, Family Medicine
 Tanner, Jayson, 15944467, PDT, Pediatrics
 Tanner, Jolie, 20904939, IMD, Internal Medicine
@@ -27045,8 +27045,8 @@ Tate, Madison, 78225783, FMD, Family Medicine
 Tate, Nataly, 94903804, IMD, Internal Medicine
 Tate, Nia, 14041347, OBG, Obstetrics and Gynecology
 Tate, Nikolas, 12247223, OPH, Ophthalmology
-Tate, Noah, 38693309, XXX, NOT_MATCHED
 Tate, Noah, 72301154, FMD, Family Medicine
+Tate, Noah, 38693309, XXX, NOT_MATCHED
 Tate, Paola, 40664016, FMD, Family Medicine
 Tate, Paul, 69687963, XXX, NOT_MATCHED
 Tate, Raya, 52783340, ANT, Anesthesiology
@@ -27351,8 +27351,8 @@ Thornton, Imani, 73964664, PSU, Plastic Surgery
 Thornton, Itzel, 97444609, PSY, Psychiatry
 Thornton, Jakobe, 78667844, OPH, Ophthalmology
 Thornton, Janelle, 75012906, IMD, Internal Medicine
-Thornton, Jessica, 92503895, PSU, Plastic Surgery
 Thornton, Jessica, 11879675, IMD, Internal Medicine
+Thornton, Jessica, 92503895, PSU, Plastic Surgery
 Thornton, Jones, 43837902, FMD, Family Medicine
 Thornton, Kole, 83093536, EMD, Emergency Medicine
 Thornton, Kristian, 65735081, XXX, NOT_MATCHED
@@ -27411,8 +27411,8 @@ Todd, Nathalie, 84279457, FMD, Family Medicine
 Todd, Rory, 28315627, XXX, NOT_MATCHED
 Todd, Royalty, 53566230, FMD, Family Medicine
 Todd, Sadie, 32757514, FMD, Family Medicine
-Todd, Sam, 68612367, FMD, Family Medicine
 Todd, Sam, 95701602, IMD, Internal Medicine
+Todd, Sam, 68612367, FMD, Family Medicine
 Todd, Veda, 52613854, EMD, Emergency Medicine
 Todd, Walker, 95679314, IMD, Internal Medicine
 Todd, Zaid, 62571549, FMD, Family Medicine
@@ -27530,8 +27530,8 @@ Tran, Justice, 28201443, NRO, Neurology
 Tran, Kaliyah, 73582610, XXX, NOT_MATCHED
 Tran, Kassidy, 27112837, FMD, Family Medicine
 Tran, Kori, 78390124, OBG, Obstetrics and Gynecology
-Tran, Liam, 79165909, FMD, Family Medicine
 Tran, Liam, 21001218, FMD, Family Medicine
+Tran, Liam, 79165909, FMD, Family Medicine
 Tran, Lucas, 34023121, FMD, Family Medicine
 Tran, Luciano, 57499834, OTO, Otolaryngology - Head and Neck Surgery
 Tran, Madden, 29816093, XXX, NOT_MATCHED
@@ -27541,8 +27541,8 @@ Tran, Malakai, 35275087, FMD, Family Medicine
 Tran, Malaya, 45171329, FMD, Family Medicine
 Tran, Marcelo, 87631716, PSY, Psychiatry
 Tran, Milan, 51443663, XXX, NOT_MATCHED
-Tran, Monroe, 76060653, FMD, Family Medicine
 Tran, Monroe, 82797491, XXX, NOT_MATCHED
+Tran, Monroe, 76060653, FMD, Family Medicine
 Tran, Nash, 10685278, XXX, NOT_MATCHED
 Tran, Noor, 74869726, XXX, NOT_MATCHED
 Tran, Omari, 19930720, XXX, NOT_MATCHED
@@ -27657,8 +27657,8 @@ Trejo, Robin, 15813689, FMD, Family Medicine
 Trejo, Rosalee, 89837027, XXX, NOT_MATCHED
 Trejo, Rosalia, 83026711, FMD, Family Medicine
 Trejo, Rose, 18885966, XXX, NOT_MATCHED
-Trejo, Sage, 51574382, FMD, Family Medicine
 Trejo, Sage, 31118890, XXX, NOT_MATCHED
+Trejo, Sage, 51574382, FMD, Family Medicine
 Trejo, Scarlet, 86485396, FMD, Family Medicine
 Trejo, Sophia, 28183283, FMD, Family Medicine
 Trejo, Stormi, 12389329, FMD, Family Medicine
@@ -27831,8 +27831,8 @@ Truong, Zaire, 75233561, XXX, NOT_MATCHED
 Tucker, Aldo, 89593414, OTO, Otolaryngology - Head and Neck Surgery
 Tucker, Amara, 35046200, FMD, Family Medicine
 Tucker, Amber, 82856287, FMD, Family Medicine
-Tucker, Anais, 73954283, FMD, Family Medicine
 Tucker, Anais, 98237471, FMD, Family Medicine
+Tucker, Anais, 73954283, FMD, Family Medicine
 Tucker, Anders, 65666607, XXX, NOT_MATCHED
 Tucker, Angie, 10093406, FMD, Family Medicine
 Tucker, Anthony, 82486074, FMD, Family Medicine
@@ -28042,8 +28042,8 @@ Valdez, Charlie, 31371123, FMD, Family Medicine
 Valdez, Cory, 31909363, FMD, Family Medicine
 Valdez, Declan, 22201555, GSU, General Surgery
 Valdez, Demetrius, 80079281, FMD, Family Medicine
-Valdez, Denise, 85555893, FMD, Family Medicine
 Valdez, Denise, 85993827, IMD, Internal Medicine
+Valdez, Denise, 85555893, FMD, Family Medicine
 Valdez, Emmeline, 16602896, XXX, NOT_MATCHED
 Valdez, Estella, 81855645, DRA, Diagnostic Radiology
 Valdez, Esther, 10663552, FMD, Family Medicine
@@ -28234,9 +28234,9 @@ Valenzuela, Raquel, 20844852, XXX, NOT_MATCHED
 Valenzuela, Renata, 66177331, FMD, Family Medicine
 Valenzuela, Roberto, 75927523, FMD, Family Medicine
 Valenzuela, Romina, 93111692, DMP, Diagnostic and Molecular Pathology
-Valenzuela, Ronin, 45107902, NMD, Nuclear Medicine
-Valenzuela, Ronin, 77646118, PMR, Physical Medicine & Rehabilitation
 Valenzuela, Ronin, 77580990, GSU, General Surgery
+Valenzuela, Ronin, 77646118, PMR, Physical Medicine & Rehabilitation
+Valenzuela, Ronin, 45107902, NMD, Nuclear Medicine
 Valenzuela, Ruben, 29710847, FMD, Family Medicine
 Valenzuela, Russell, 96053407, XXX, NOT_MATCHED
 Valenzuela, Samson, 75909495, PSY, Psychiatry
@@ -28306,8 +28306,8 @@ Vang, Briar, 69548696, FMD, Family Medicine
 Vang, Bronson, 14826911, FMD, Family Medicine
 Vang, Casen, 81737316, FMD, Family Medicine
 Vang, Charles, 73585061, GSU, General Surgery
-Vang, Charlie, 61217139, PSY, Psychiatry
 Vang, Charlie, 82755292, XXX, NOT_MATCHED
+Vang, Charlie, 61217139, PSY, Psychiatry
 Vang, Eliza, 43967722, XXX, NOT_MATCHED
 Vang, Enrique, 14505371, FMD, Family Medicine
 Vang, Fernanda, 98420541, FMD, Family Medicine
@@ -28453,8 +28453,8 @@ Vaughan, Alina, 95074552, FMD, Family Medicine
 Vaughan, Amira, 80147653, IMD, Internal Medicine
 Vaughan, Arielle, 28220563, FMD, Family Medicine
 Vaughan, Atreus, 36293108, XXX, NOT_MATCHED
-Vaughan, Avi, 32310254, XXX, NOT_MATCHED
 Vaughan, Avi, 38666215, XXX, NOT_MATCHED
+Vaughan, Avi, 32310254, XXX, NOT_MATCHED
 Vaughan, Benson, 81543750, FMD, Family Medicine
 Vaughan, Brock, 52406118, FMD, Family Medicine
 Vaughan, Cassius, 21895709, FMD, Family Medicine
@@ -28653,8 +28653,8 @@ Vega, Robin, 44052143, PDT, Pediatrics
 Vega, Saige, 94026650, FMD, Family Medicine
 Vega, Selene, 17693391, XXX, NOT_MATCHED
 Vega, Shane, 77348548, FMD, Family Medicine
-Vega, Shiloh, 83374287, XXX, NOT_MATCHED
 Vega, Shiloh, 50497371, FMD, Family Medicine
+Vega, Shiloh, 83374287, XXX, NOT_MATCHED
 Vega, Ty, 70888668, IMD, Internal Medicine
 Vega, Vihaan, 32211880, XXX, NOT_MATCHED
 Vega, Violet, 19703587, XXX, NOT_MATCHED
@@ -28801,8 +28801,8 @@ Velez, Simon, 48094104, XXX, NOT_MATCHED
 Velez, Yara, 23627676, ANT, Anesthesiology
 Velez, Zendaya, 88163162, ROC, Radiation Oncology
 Velez, Zhuri, 39222315, FMD, Family Medicine
-Ventura, Addilyn, 51541052, XXX, NOT_MATCHED
 Ventura, Addilyn, 30236611, XXX, NOT_MATCHED
+Ventura, Addilyn, 51541052, XXX, NOT_MATCHED
 Ventura, Adelynn, 66194169, XXX, NOT_MATCHED
 Ventura, Adler, 43176938, FME, Family Medicine integrated Emergency Medicine
 Ventura, Amari, 75814992, XXX, NOT_MATCHED
@@ -28820,8 +28820,8 @@ Ventura, Charlie, 78690575, FMD, Family Medicine
 Ventura, Dash, 78957568, IMD, Internal Medicine
 Ventura, Dior, 44916688, GSU, General Surgery
 Ventura, Dior, 47695265, ORS, Orthopedic Surgery
-Ventura, Dorian, 21034019, FMD, Family Medicine
 Ventura, Dorian, 37197205, FMD, Family Medicine
+Ventura, Dorian, 21034019, FMD, Family Medicine
 Ventura, Emory, 87829490, XXX, NOT_MATCHED
 Ventura, Everest, 82956945, FMD, Family Medicine
 Ventura, Hazel, 72481606, XXX, NOT_MATCHED
@@ -28893,8 +28893,8 @@ Villa, Maria, 61867088, IMD, Internal Medicine
 Villa, Michael, 26411767, XXX, NOT_MATCHED
 Villa, Mikaela, 53750874, XXX, NOT_MATCHED
 Villa, Oliver, 51267734, FMD, Family Medicine
-Villa, Paige, 53000062, FMD, Family Medicine
 Villa, Paige, 51939140, EMD, Emergency Medicine
+Villa, Paige, 53000062, FMD, Family Medicine
 Villa, Pearl, 27126881, XXX, NOT_MATCHED
 Villa, Poppy, 79238662, XXX, NOT_MATCHED
 Villa, Preston, 66002559, XXX, NOT_MATCHED
@@ -28980,8 +28980,8 @@ Villanueva, Audrey, 62704618, XXX, NOT_MATCHED
 Villanueva, Blake, 79822656, FMD, Family Medicine
 Villanueva, Bo, 47301387, URO, Urology
 Villanueva, Brett, 90450470, GSU, General Surgery
-Villanueva, Cayson, 87383107, XXX, NOT_MATCHED
 Villanueva, Cayson, 35325294, IMD, Internal Medicine
+Villanueva, Cayson, 87383107, XXX, NOT_MATCHED
 Villanueva, Clayton, 74022188, FMD, Family Medicine
 Villanueva, Conrad, 98335739, IMD, Internal Medicine
 Villanueva, Desmond, 63192516, FMD, Family Medicine
@@ -29244,8 +29244,8 @@ Vu, Kaydence, 14103859, XXX, NOT_MATCHED
 Vu, Khalani, 86930641, IMD, Internal Medicine
 Vu, Kiana, 37192214, XXX, NOT_MATCHED
 Vu, Koda, 68004739, EMD, Emergency Medicine
-Vu, Kolton, 53569821, FMD, Family Medicine
 Vu, Kolton, 29418364, DMT, Dermatology
+Vu, Kolton, 53569821, FMD, Family Medicine
 Vu, Lachlan, 39005564, IMD, Internal Medicine
 Vu, Legacy, 57146598, IMD, Internal Medicine
 Vu, Lilliana, 71355969, FMD, Family Medicine
@@ -29289,8 +29289,8 @@ Wade, Clayton, 26247076, FMD, Family Medicine
 Wade, Conner, 21626186, PMR, Physical Medicine & Rehabilitation
 Wade, Dalary, 31015996, ANT, Anesthesiology
 Wade, Davis, 75600557, IMD, Internal Medicine
-Wade, Della, 74480685, IMD, Internal Medicine
 Wade, Della, 31006471, PSY, Psychiatry
+Wade, Della, 74480685, IMD, Internal Medicine
 Wade, Desmond, 62500701, FMD, Family Medicine
 Wade, Dillon, 30530293, IMD, Internal Medicine
 Wade, Edison, 15759581, FMD, Family Medicine
@@ -29341,8 +29341,8 @@ Wagner, Bria, 50929347, PDT, Pediatrics
 Wagner, Bryce, 90799811, PSY, Psychiatry
 Wagner, Carl, 85175331, XXX, NOT_MATCHED
 Wagner, Carl, 21846405, XXX, NOT_MATCHED
-Wagner, Charli, 30877232, PSU, Plastic Surgery
 Wagner, Charli, 75110799, XXX, NOT_MATCHED
+Wagner, Charli, 30877232, PSU, Plastic Surgery
 Wagner, Damir, 43984321, PSY, Psychiatry
 Wagner, Dash, 93929673, XXX, NOT_MATCHED
 Wagner, Emersyn, 33261286, XXX, NOT_MATCHED
@@ -29632,8 +29632,8 @@ Walls, Jericho, 37560452, XXX, NOT_MATCHED
 Walls, Juelz, 23893251, NRO, Neurology
 Walls, Kate, 76183689, IMD, Internal Medicine
 Walls, Kellen, 42044728, PDT, Pediatrics
-Walls, Kenzo, 79840143, NRO, Neurology
 Walls, Kenzo, 52387918, EMD, Emergency Medicine
+Walls, Kenzo, 79840143, NRO, Neurology
 Walls, Kiana, 33952554, FMD, Family Medicine
 Walls, Maisie, 11627714, XXX, NOT_MATCHED
 Walls, Malaysia, 26232156, PDT, Pediatrics
@@ -29959,8 +29959,8 @@ Ward, Seven, 82817785, ORS, Orthopedic Surgery
 Ward, Wayne, 75261987, FMD, Family Medicine
 Ward, Zechariah, 63730156, XXX, NOT_MATCHED
 Ward, Zoey, 69279161, FMD, Family Medicine
-Ware, Alejandra, 14795340, FMD, Family Medicine
 Ware, Alejandra, 24538064, DMP, Diagnostic and Molecular Pathology
+Ware, Alejandra, 14795340, FMD, Family Medicine
 Ware, Alessandra, 61122134, FMD, Family Medicine
 Ware, Alia, 91448806, XXX, NOT_MATCHED
 Ware, Alia, 66116284, IMD, Internal Medicine
@@ -30071,8 +30071,8 @@ Warner, Ruth, 13250501, ROC, Radiation Oncology
 Warner, Santos, 70071131, XXX, NOT_MATCHED
 Warner, Scott, 42037822, FMD, Family Medicine
 Warner, Tadeo, 67946353, XXX, NOT_MATCHED
-Warner, Trey, 84416959, IMD, Internal Medicine
 Warner, Trey, 63505548, IMD, Internal Medicine
+Warner, Trey, 84416959, IMD, Internal Medicine
 Warner, Zachary, 73248280, IMD, Internal Medicine
 Warren, Aarav, 21387798, IMD, Internal Medicine
 Warren, Addilyn, 83022062, FMD, Family Medicine
@@ -30090,8 +30090,8 @@ Warren, Cain, 28843851, DMP, Diagnostic and Molecular Pathology
 Warren, Clark, 40398520, FMD, Family Medicine
 Warren, Clay, 42046346, ANT, Anesthesiology
 Warren, Cohen, 10804567, FMD, Family Medicine
-Warren, Cruz, 24383624, XXX, NOT_MATCHED
 Warren, Cruz, 34466937, FMD, Family Medicine
+Warren, Cruz, 24383624, XXX, NOT_MATCHED
 Warren, Daphne, 91468587, FMD, Family Medicine
 Warren, Derrick, 88392201, NRO, Neurology
 Warren, Devin, 66330414, IMD, Internal Medicine
@@ -30118,8 +30118,8 @@ Warren, Laura, 34011139, FMD, Family Medicine
 Warren, Ledger, 50588850, NRO, Neurology
 Warren, Lincoln, 42890961, XXX, NOT_MATCHED
 Warren, Lucca, 92405338, XXX, NOT_MATCHED
-Warren, Malaysia, 38590102, FMD, Family Medicine
 Warren, Malaysia, 81588736, PHP, Public Health and Preventive Medicine
+Warren, Malaysia, 38590102, FMD, Family Medicine
 Warren, Milani, 29897957, FMD, Family Medicine
 Warren, Palmer, 63781715, XXX, NOT_MATCHED
 Warren, Peter, 18142785, XXX, NOT_MATCHED
@@ -30404,8 +30404,8 @@ Weaver, Valentino, 63815923, XXX, NOT_MATCHED
 Weaver, Whitley, 50558160, MGG, Medical Genetics and Genomics
 Webb, Albert, 58541651, FMD, Family Medicine
 Webb, Ambrose, 81526532, XXX, NOT_MATCHED
-Webb, Amoura, 38187586, FMD, Family Medicine
 Webb, Amoura, 68658221, FMD, Family Medicine
+Webb, Amoura, 38187586, FMD, Family Medicine
 Webb, Ana, 44460375, ANT, Anesthesiology
 Webb, Ari, 43128429, XXX, NOT_MATCHED
 Webb, Bellamy, 93553419, FMD, Family Medicine
@@ -30752,8 +30752,8 @@ Wells, Mitchell, 68113886, XXX, NOT_MATCHED
 Wells, Noah, 53233210, OBG, Obstetrics and Gynecology
 Wells, Paulina, 10981353, FMD, Family Medicine
 Wells, Preston, 91360495, FMD, Family Medicine
-Wells, Rayna, 22308240, PSY, Psychiatry
 Wells, Rayna, 31099886, XXX, NOT_MATCHED
+Wells, Rayna, 22308240, PSY, Psychiatry
 Wells, Scott, 60615989, FMD, Family Medicine
 Wells, Selena, 63225857, XXX, NOT_MATCHED
 Wells, Soren, 50307928, XXX, NOT_MATCHED
@@ -30762,8 +30762,8 @@ Wells, Taylor, 43649111, XXX, NOT_MATCHED
 Wells, Trinity, 95831365, FMD, Family Medicine
 West, Alexandria, 26306569, PDT, Pediatrics
 West, Alondra, 80590001, IMD, Internal Medicine
-West, Amari, 50190444, IMD, Internal Medicine
 West, Amari, 55611424, IMD, Internal Medicine
+West, Amari, 50190444, IMD, Internal Medicine
 West, Annabella, 17894596, XXX, NOT_MATCHED
 West, Bode, 41038136, PSY, Psychiatry
 West, Bria, 47861862, FMD, Family Medicine
@@ -30928,8 +30928,8 @@ White, Isabela, 89212484, IMD, Internal Medicine
 White, Jameson, 59224438, DRA, Diagnostic Radiology
 White, Jovie, 66998891, ANT, Anesthesiology
 White, Julian, 94087393, IMD, Internal Medicine
-White, Julie, 53482277, FMD, Family Medicine
 White, Julie, 55361022, FMD, Family Medicine
+White, Julie, 53482277, FMD, Family Medicine
 White, Kadence, 40335459, FMD, Family Medicine
 White, Kaia, 84578899, FMD, Family Medicine
 White, Kamiyah, 96909512, FMD, Family Medicine
@@ -30975,8 +30975,8 @@ Whitehead, Duke, 78211572, FMD, Family Medicine
 Whitehead, Elena, 21738606, FMD, Family Medicine
 Whitehead, Elodie, 84261918, DMP, Diagnostic and Molecular Pathology
 Whitehead, Eve, 41107229, GSU, General Surgery
-Whitehead, Evelynn, 64424835, XXX, NOT_MATCHED
 Whitehead, Evelynn, 71376484, IMD, Internal Medicine
+Whitehead, Evelynn, 64424835, XXX, NOT_MATCHED
 Whitehead, Frederick, 47852414, IMD, Internal Medicine
 Whitehead, Gideon, 93756437, XXX, NOT_MATCHED
 Whitehead, Idris, 86660081, XXX, NOT_MATCHED
@@ -31008,8 +31008,8 @@ Whitehead, Rylee, 78386147, FMD, Family Medicine
 Whitehead, Sofia, 34094070, XXX, NOT_MATCHED
 Whitehead, Sonny, 15762524, DMT, Dermatology
 Whitehead, Thatcher, 80921298, FMD, Family Medicine
-Whitehead, Trace, 96353357, XXX, NOT_MATCHED
 Whitehead, Trace, 46547856, PMR, Physical Medicine & Rehabilitation
+Whitehead, Trace, 96353357, XXX, NOT_MATCHED
 Whitehead, Vera, 10258171, FMD, Family Medicine
 Whitehead, Victoria, 67369465, FMD, Family Medicine
 Whitehead, Vienna, 72886964, XXX, NOT_MATCHED
@@ -31387,8 +31387,8 @@ Williamson, Aniya, 39675035, IMD, Internal Medicine
 Williamson, Annabelle, 62017997, XXX, NOT_MATCHED
 Williamson, Aubrie, 27643392, XXX, NOT_MATCHED
 Williamson, Aydin, 16831556, DMP, Diagnostic and Molecular Pathology
-Williamson, Bentlee, 17537455, FMD, Family Medicine
 Williamson, Bentlee, 74526092, FMD, Family Medicine
+Williamson, Bentlee, 17537455, FMD, Family Medicine
 Williamson, Briar, 22709811, XXX, NOT_MATCHED
 Williamson, Brock, 27258105, FMD, Family Medicine
 Williamson, Callahan, 49591729, ANT, Anesthesiology
@@ -31548,8 +31548,8 @@ Wilson, Talon, 37274022, OBG, Obstetrics and Gynecology
 Wilson, Tanner, 52093604, FMD, Family Medicine
 Wilson, Tyson, 13321321, PSY, Psychiatry
 Wilson, Whitley, 87861514, GSU, General Surgery
-Wilson, Zyair, 90107434, FMD, Family Medicine
 Wilson, Zyair, 39806146, FMD, Family Medicine
+Wilson, Zyair, 90107434, FMD, Family Medicine
 Winters, Abner, 92377062, EMD, Emergency Medicine
 Winters, Aiden, 24153971, URO, Urology
 Winters, Alice, 60969981, EMD, Emergency Medicine
@@ -31564,8 +31564,8 @@ Winters, Cecilia, 92511741, FMD, Family Medicine
 Winters, Chana, 27205945, DRA, Diagnostic Radiology
 Winters, Chaya, 65478829, XXX, NOT_MATCHED
 Winters, Clark, 67924784, XXX, NOT_MATCHED
-Winters, Dante, 40344847, PDT, Pediatrics
 Winters, Dante, 13316683, FMD, Family Medicine
+Winters, Dante, 40344847, PDT, Pediatrics
 Winters, Deborah, 91928931, XXX, NOT_MATCHED
 Winters, Emma, 53677948, FMD, Family Medicine
 Winters, Emmett, 28897142, PSY, Psychiatry
@@ -31674,8 +31674,8 @@ Wolf, Heaven, 14446700, FMD, Family Medicine
 Wolf, Iker, 79085471, XXX, NOT_MATCHED
 Wolf, Juliette, 38231157, NRO, Neurology
 Wolf, Kason, 94866973, XXX, NOT_MATCHED
-Wolf, Katelyn, 67199125, OBG, Obstetrics and Gynecology
 Wolf, Katelyn, 85521769, XXX, NOT_MATCHED
+Wolf, Katelyn, 67199125, OBG, Obstetrics and Gynecology
 Wolf, Katie, 24262944, XXX, NOT_MATCHED
 Wolf, Kiana, 71039639, FMD, Family Medicine
 Wolf, Kyler, 84108598, PDT, Pediatrics
@@ -31743,13 +31743,13 @@ Wolfe, Kye, 58673961, XXX, NOT_MATCHED
 Wolfe, Kylian, 90302525, OBG, Obstetrics and Gynecology
 Wolfe, Leila, 93854526, DMT, Dermatology
 Wolfe, Leonardo, 51684667, XXX, NOT_MATCHED
-Wolfe, Logan, 87277509, FMD, Family Medicine
 Wolfe, Logan, 86127142, FMD, Family Medicine
+Wolfe, Logan, 87277509, FMD, Family Medicine
 Wolfe, Mary, 64585586, FMD, Family Medicine
 Wolfe, Melani, 17864001, IMD, Internal Medicine
 Wolfe, Melany, 63310785, EMD, Emergency Medicine
-Wolfe, Morgan, 11855434, XXX, NOT_MATCHED
 Wolfe, Morgan, 94306062, NRO, Neurology
+Wolfe, Morgan, 11855434, XXX, NOT_MATCHED
 Wolfe, Nellie, 97316586, FMD, Family Medicine
 Wolfe, Noemi, 41585789, IMD, Internal Medicine
 Wolfe, Oakleigh, 89501975, FMD, Family Medicine
@@ -31795,8 +31795,8 @@ Wong, Issac, 74070693, XXX, NOT_MATCHED
 Wong, Izaiah, 87912646, PSY, Psychiatry
 Wong, Jaylee, 22975707, IMD, Internal Medicine
 Wong, Jaylin, 23793547, XXX, NOT_MATCHED
-Wong, Juliet, 81324148, OBG, Obstetrics and Gynecology
 Wong, Juliet, 21221614, XXX, NOT_MATCHED
+Wong, Juliet, 81324148, OBG, Obstetrics and Gynecology
 Wong, Kaiden, 68543054, IMD, Internal Medicine
 Wong, Kaiya, 12844428, FMD, Family Medicine
 Wong, Karina, 63150435, XXX, NOT_MATCHED
@@ -31844,8 +31844,8 @@ Wood, Jadiel, 67588569, XXX, NOT_MATCHED
 Wood, Jay, 24065495, ANT, Anesthesiology
 Wood, Kaia, 24841734, XXX, NOT_MATCHED
 Wood, Kaydence, 61874090, ROC, Radiation Oncology
-Wood, Khloe, 23504769, DMT, Dermatology
 Wood, Khloe, 29174028, XXX, NOT_MATCHED
+Wood, Khloe, 23504769, DMT, Dermatology
 Wood, Luis, 58037579, FMD, Family Medicine
 Wood, Macie, 36108173, XXX, NOT_MATCHED
 Wood, Malik, 93978226, OPH, Ophthalmology
@@ -31951,8 +31951,8 @@ Woods, Winnie, 43394756, DMP, Diagnostic and Molecular Pathology
 Woods, Winter, 77417581, FMD, Family Medicine
 Woodward, Adelaide, 70961535, PSY, Psychiatry
 Woodward, Adelynn, 48658353, FMD, Family Medicine
-Woodward, Alayah, 73993208, FMD, Family Medicine
 Woodward, Alayah, 12692559, FMD, Family Medicine
+Woodward, Alayah, 73993208, FMD, Family Medicine
 Woodward, Arabella, 55060539, DRA, Diagnostic Radiology
 Woodward, Araceli, 53836277, XXX, NOT_MATCHED
 Woodward, Aubree, 14205568, FMD, Family Medicine
@@ -32001,8 +32001,8 @@ Woodward, Victoria, 15533760, XXX, NOT_MATCHED
 Woodward, Xzavier, 60591424, FMD, Family Medicine
 Wright, Ahmad, 16423191, PSY, Psychiatry
 Wright, Alejandra, 71859067, ANT, Anesthesiology
-Wright, Alia, 27498870, FMD, Family Medicine
 Wright, Alia, 99946065, IMD, Internal Medicine
+Wright, Alia, 27498870, FMD, Family Medicine
 Wright, Alistair, 60387140, XXX, NOT_MATCHED
 Wright, Alivia, 81854585, FMD, Family Medicine
 Wright, Alyssa, 46539486, OPH, Ophthalmology
@@ -32085,8 +32085,8 @@ Wu, Promise, 66919320, XXX, NOT_MATCHED
 Wu, Rebecca, 62045145, FMD, Family Medicine
 Wu, Rey, 64322067, PHF, Public Health and Preventive Family Medicine
 Wu, Ryleigh, 92962316, IMD, Internal Medicine
-Wu, Santiago, 27093959, FMD, Family Medicine
 Wu, Santiago, 44574352, NRO, Neurology
+Wu, Santiago, 27093959, FMD, Family Medicine
 Wu, Saylor, 52755035, ANT, Anesthesiology
 Wu, Stella, 25095065, PDT, Pediatrics
 Wu, Wade, 25500672, XXX, NOT_MATCHED
@@ -32320,8 +32320,8 @@ Yoder, Maximilian, 47962667, FMD, Family Medicine
 Yoder, Mckinley, 10207125, XXX, NOT_MATCHED
 Yoder, Melany, 86876923, FMD, Family Medicine
 Yoder, Morgan, 99401007, FMD, Family Medicine
-Yoder, Moshe, 27136216, XXX, NOT_MATCHED
 Yoder, Moshe, 30212319, NRO, Neurology
+Yoder, Moshe, 27136216, XXX, NOT_MATCHED
 Yoder, Reyna, 37102230, FMD, Family Medicine
 Yoder, Scout, 30490996, XXX, NOT_MATCHED
 Yoder, Skylar, 15071083, FMD, Family Medicine
@@ -32332,8 +32332,8 @@ Yoder, Xzavier, 74031687, XXX, NOT_MATCHED
 Yoder, Zachariah, 32873012, PDT, Pediatrics
 York, Adalyn, 86624460, XXX, NOT_MATCHED
 York, Ainhoa, 19483320, FMD, Family Medicine
-York, Allan, 37758030, EMD, Emergency Medicine
 York, Allan, 31311324, XXX, NOT_MATCHED
+York, Allan, 37758030, EMD, Emergency Medicine
 York, Amira, 34210263, FMD, Family Medicine
 York, Anya, 73553040, FMD, Family Medicine
 York, Ari, 97779879, XXX, NOT_MATCHED
@@ -32364,8 +32364,8 @@ York, Julio, 47299669, FMD, Family Medicine
 York, Kairi, 86471064, FMD, Family Medicine
 York, Kamari, 78132378, PDT, Pediatrics
 York, Kamari, 24917676, FMD, Family Medicine
-York, Kathryn, 75952240, XXX, NOT_MATCHED
 York, Kathryn, 22177446, FMD, Family Medicine
+York, Kathryn, 75952240, XXX, NOT_MATCHED
 York, Kensley, 57885202, IMD, Internal Medicine
 York, Kyla, 36260894, XXX, NOT_MATCHED
 York, Leon, 54299445, IMD, Internal Medicine
@@ -32508,8 +32508,8 @@ Zamora, Artemis, 11505708, XXX, NOT_MATCHED
 Zamora, Bodie, 54258980, FMD, Family Medicine
 Zamora, Bria, 49541926, FMD, Family Medicine
 Zamora, Caden, 59586111, FMD, Family Medicine
-Zamora, Cara, 63730810, FMD, Family Medicine
 Zamora, Cara, 42908370, IMD, Internal Medicine
+Zamora, Cara, 63730810, FMD, Family Medicine
 Zamora, Charlie, 49185322, DRA, Diagnostic Radiology
 Zamora, Chaya, 12530814, FMD, Family Medicine
 Zamora, Crosby, 38509480, XXX, NOT_MATCHED
@@ -32548,8 +32548,8 @@ Zamora, Sebastian, 19922369, FMD, Family Medicine
 Zamora, Sierra, 80894291, FMD, Family Medicine
 Zamora, Sloane, 72485634, PHF, Public Health and Preventive Family Medicine
 Zamora, Sterling, 92336237, NRO, Neurology
-Zamora, Treasure, 60365257, XXX, NOT_MATCHED
 Zamora, Treasure, 48362148, FMD, Family Medicine
+Zamora, Treasure, 60365257, XXX, NOT_MATCHED
 Zamora, Trey, 21250540, FMD, Family Medicine
 Zamora, Uriah, 56810773, XXX, NOT_MATCHED
 Zamora, Wes, 28047029, GSU, General Surgery
@@ -32632,8 +32632,8 @@ Zhang, Kora, 73284423, CSU, Cardiac Surgery
 Zhang, Lauren, 63264614, NRS, Neurosurgery
 Zhang, Lorelai, 59252182, FMD, Family Medicine
 Zhang, Luis, 91222731, OTO, Otolaryngology - Head and Neck Surgery
-Zhang, Mary, 77160994, OBG, Obstetrics and Gynecology
 Zhang, Mary, 44324947, ROC, Radiation Oncology
+Zhang, Mary, 77160994, OBG, Obstetrics and Gynecology
 Zhang, Mathew, 22826981, NRO, Neurology
 Zhang, Megan, 84232790, FMD, Family Medicine
 Zhang, Michelle, 78846217, FMD, Family Medicine
@@ -32737,8 +32737,8 @@ Zuniga, Lacey, 79043960, XXX, NOT_MATCHED
 Zuniga, Laney, 20655028, XXX, NOT_MATCHED
 Zuniga, Leland, 86975847, IMD, Internal Medicine
 Zuniga, Lennox, 15288979, ANT, Anesthesiology
-Zuniga, London, 32611935, FMD, Family Medicine
 Zuniga, London, 68164884, XXX, NOT_MATCHED
+Zuniga, London, 32611935, FMD, Family Medicine
 Zuniga, Maddison, 68114658, FMD, Family Medicine
 Zuniga, Mercy, 44244194, FMD, Family Medicine
 Zuniga, Nash, 83371164, NRS, Neurosurgery
@@ -32763,7 +32763,6 @@ Zuniga, Zayden, 97420080, OBG, Obstetrics and Gynecology
 
 Number of unmatched residents: 13027
 Number of positions available: 94
-Execution time: 5.4237844s
+Execution time: 8.9667126s
 
-
-// Note: Around the first ~20000 were omitted
+// Note: First ~20000 lines have been omitted
