@@ -13,6 +13,7 @@ import (
 	"sort"
 	"strconv"
 	"strings"
+	"time"
 )
 
 // The Resident data type
@@ -424,9 +425,13 @@ func main() {
 	}
 	sort.Ints(ids)
 
+	start := time.Now()
+
 	for _, id := range ids {
 		offer(id, residents, programs)
 	}
+
+	end := time.Now()
 
 	// sort alphabetically
 	var residentList []*Resident
@@ -441,7 +446,6 @@ func main() {
 		return residentList[i].lastname < residentList[j].lastname
 	})
 
-	fmt.Print("----------------------------------------------------\n")
 	fmt.Println("lastname, firstname, residentID, programID, name")
 
 	unmatchedCounter := 0
@@ -472,5 +476,6 @@ func main() {
 
 	fmt.Printf("\nNumber of unmatched residents: %d\n", unmatchedCounter)
 	fmt.Printf("Number of positions available: %d", positionsLeft)
+	fmt.Printf("\nExecution time: %s", end.Sub(start))
 
 }
