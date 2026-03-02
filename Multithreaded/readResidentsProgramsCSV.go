@@ -43,28 +43,38 @@ type Heap struct {
 	theListHeap []int
 }
 
+// A function for the heap where it has three scenarios
+// 1. The resident isn't on the program's ROL meaning that they won't get accepted and won't be pushed onto the heap
+// 2. If the resident is on the program's ROL then:
+// 2.1 If the quota hasn't reached its max, then it will push the resident into the heap and rearrange the tree so that the worst ranking student is at the top
+// 2.2 If the quota has reached the max, then it will compare the current worst student and the new resident and see which one is worse and push in the new resident if it's better
 func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 
 	residentID := resident.residentID
 
+	//If the resident isn't in the program's ROL then they aren't accepted
 	if !slices.Contains(program.rol, residentID) {
 		return 0, false
 	}
 
 	//If there is available quota
 	if program.nPositions > len(h.theListHeap) {
+
+		//Gets the index of where the new resident will be at
 		currentIndex := len(h.theListHeap)
 		var parent int
 		var worseRank int
 		h.theListHeap = append(h.theListHeap, residentID)
 
+		//Does an up-heap and compares the child to its parents
 		for {
 
 			parent = h.theListHeap[int((currentIndex-1)/2)]
 
+			//Whoever has the worse rank will be given to worseRank
 			worseRank = compareTwoRanks(parent, residentID, program.rol)
 
-			//if
+			//If the worseRank was the residentID then they will switch with the parent, otherwise, it will break the while loop
 			if worseRank != parent {
 				h.theListHeap[currentIndex] = parent
 				currentIndex = int((currentIndex - 1) / 2)
@@ -80,18 +90,24 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 		return 0, false
 
 	} else {
+		//If the quota has been reached
+
+		//Gets the lowest ranked resident which is at the top of the heap
 		currentLowestResident := h.theListHeap[0]
+
+		//Compares the top of the heap with the new resident
 		currentLowestResident = compareTwoRanks(currentLowestResident, residentID, program.rol)
 
 		//The lowest id is the previous top of the heap
-		//-------------------------------------------MAKE SURE TO CHANGE THE MATCHED PROGRAM FOR THIS
+
+		//If the resident is higher on the ROL then the current worst person in the heap
 		if currentLowestResident != residentID {
 			h.theListHeap[0] = residentID
 
+			h.downHeap(0, program)
+
 			return currentLowestResident, true
 		}
-
-		h.downHeap(0, program)
 
 		return 0, false
 

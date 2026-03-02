@@ -84,10 +84,10 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 		if currentLowestResident != residentID {
 			h.theListHeap[0] = residentID
 
+			h.downHeap(0, program)
+
 			return currentLowestResident, true
 		}
-
-		h.downHeap(0, program)
 
 		return 0, false
 
