@@ -105,6 +105,7 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 		if currentLowestResident != residentID {
 			h.theListHeap[0] = residentID
 
+			//Since we switched the top of the heap with something else, we do a downheap
 			h.downHeap(0, program, len(h.theListHeap))
 
 			return currentLowestResident, true
@@ -153,38 +154,43 @@ func (h *Heap) pop(program *Program) int {
 	//Does the downheap
 	h.downHeap(0, program, len(h.theListHeap)-1)
 
+	//Removes the last element (the previous worst ranked residentID)
 	h.theListHeap = h.theListHeap[:len(h.theListHeap)-1]
 
 	return temp
 
 }
 
+// Does a downheap for the heap
 func (h *Heap) downHeap(currentIndex int, program *Program, currentSize int) {
 
-	currentIndex = 0
 	var leftIndex int
 	var rightIndex int
 	var smallest int
 
+	//Goes from the specified currentIndex and does a downheap from there
 	for {
 
 		leftIndex = currentIndex*2 + 1
 		rightIndex = currentIndex*2 + 2
 		smallest = currentIndex
 
+		//Insures that there is a left child and then compares them
 		if leftIndex < currentSize && compareTwoRanks(h.theListHeap[leftIndex], h.theListHeap[smallest], program.rol) == h.theListHeap[leftIndex] {
 			smallest = leftIndex
 		}
 
-		//Whoever is the worse ranked resident, they will be compared to their parent to see if they need to
+		//Insures that there is a right child and compares them
 		if rightIndex < currentSize && compareTwoRanks(h.theListHeap[rightIndex], h.theListHeap[smallest], program.rol) == h.theListHeap[rightIndex] {
 			smallest = rightIndex
 		}
 
+		//If no change has been made, then break
 		if smallest == currentIndex {
 			break
 		}
 
+		//switch around the child and the parent
 		h.theListHeap[currentIndex], h.theListHeap[smallest] = h.theListHeap[smallest], h.theListHeap[currentIndex]
 
 		currentIndex = smallest
@@ -193,6 +199,7 @@ func (h *Heap) downHeap(currentIndex int, program *Program, currentSize int) {
 
 }
 
+// Peeks at the very top of the heap
 func (h *Heap) peek() (int, bool) {
 	if len(h.theListHeap) == 0 {
 		return 0, false
@@ -461,7 +468,7 @@ func evaluate(resId int, progId string, residents map[int]*Resident, programs ma
 func main() {
 
 	// read residents
-	residents, err := ReadResidentsCSV("residents4000.csv")
+	residents, err := ReadResidentsCSV("residentSmall.csv")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return
@@ -473,7 +480,7 @@ func main() {
 		}
 	*/
 
-	programs, err := ReadProgramsCSV("programs4000.csv")
+	programs, err := ReadProgramsCSV("programSmall.csv")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return
