@@ -105,7 +105,7 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 		if currentLowestResident != residentID {
 			h.theListHeap[0] = residentID
 
-			h.downHeap(0, program)
+			h.downHeap(0, program, len(h.theListHeap))
 
 			return currentLowestResident, true
 		}
@@ -116,7 +116,10 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 
 }
 
+// A function that compares two residentIDs and see which one is lower ranked on the program's ROL
 func compareTwoRanks(residentID1 int, residentID2 int, programRol []int) int {
+
+	//Goes through the entire programROl and checks which value appears first. Then it returns the other value since it was lower ranked
 	for _, value := range programRol {
 		if residentID1 == value {
 			return residentID2
@@ -128,22 +131,27 @@ func compareTwoRanks(residentID1 int, residentID2 int, programRol []int) int {
 
 	}
 
+	//Based on our push method, this return will never happen since the residentID1 and residentID2 will always be in the program's ROL
 	return 0
 
 }
 
+// Returns the first item at the top of the heap
 func (h *Heap) pop(program *Program) int {
 
+	//If the heap is size 0, then it will return 0
 	if len(h.theListHeap) == 0 {
 		return 0
 	}
 
+	//Switches the first value with the last value
 	temp := h.theListHeap[0]
 	currentSize := len(h.theListHeap)
 	h.theListHeap[0] = h.theListHeap[currentSize-1]
 	h.theListHeap[currentSize-1] = temp
 
-	h.downHeap(0, program)
+	//Does the downheap
+	h.downHeap(0, program, len(h.theListHeap)-1)
 
 	h.theListHeap = h.theListHeap[:len(h.theListHeap)-1]
 
@@ -151,9 +159,7 @@ func (h *Heap) pop(program *Program) int {
 
 }
 
-func (h *Heap) downHeap(currentIndex int, program *Program) {
-
-	currentSize := len(h.theListHeap) - 1
+func (h *Heap) downHeap(currentIndex int, program *Program, currentSize int) {
 
 	currentIndex = 0
 	var leftIndex int

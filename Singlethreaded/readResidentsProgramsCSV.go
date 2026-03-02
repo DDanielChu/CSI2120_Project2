@@ -84,7 +84,7 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 		if currentLowestResident != residentID {
 			h.theListHeap[0] = residentID
 
-			h.downHeap(0, program)
+			h.downHeap(0, program, len(h.theListHeap))
 
 			return currentLowestResident, true
 		}
@@ -122,7 +122,7 @@ func (h *Heap) pop(program *Program) int {
 	h.theListHeap[0] = h.theListHeap[currentSize-1]
 	h.theListHeap[currentSize-1] = temp
 
-	h.downHeap(0, program)
+	h.downHeap(0, program, len(h.theListHeap)-1)
 
 	h.theListHeap = h.theListHeap[:len(h.theListHeap)-1]
 
@@ -130,9 +130,7 @@ func (h *Heap) pop(program *Program) int {
 
 }
 
-func (h *Heap) downHeap(currentIndex int, program *Program) {
-
-	currentSize := len(h.theListHeap) - 1
+func (h *Heap) downHeap(currentIndex int, program *Program, currentSize int) {
 
 	currentIndex = 0
 	var leftIndex int
