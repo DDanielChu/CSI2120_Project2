@@ -58,7 +58,6 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 
 			worseRank = compareTwoRanks(parent, residentID, program.rol)
 
-			fmt.Print(currentIndex, ", ", worseRank, "\n")
 
 			//if
 			if worseRank != parent {
