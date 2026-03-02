@@ -367,14 +367,17 @@ func offer(resId int, residents map[int]*Resident, programs map[string]*Program,
 	res := residents[resId]
 
 	//If resident has exhausted programs on their list
+	mu.Lock()
 	if res.rolIndex >= len(res.rol) {
 		res.matchedProgram = ""
+		mu.Unlock()
 		return
 	}
 
 	// Move to next program on residents list
 	progId := res.rol[res.rolIndex]
 	res.rolIndex++
+	mu.Unlock()
 
 	evaluate(resId, progId, residents, programs, wg)
 }
