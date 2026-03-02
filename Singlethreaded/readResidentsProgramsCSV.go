@@ -40,28 +40,38 @@ type Heap struct {
 	theListHeap []int
 }
 
+// A function for the heap where it has three scenarios
+// 1. The resident isn't on the program's ROL meaning that they won't get accepted and won't be pushed onto the heap
+// 2. If the resident is on the program's ROL then:
+// 2.1 If the quota hasn't reached its max, then it will push the resident into the heap and rearrange the tree so that the worst ranking student is at the top
+// 2.2 If the quota has reached the max, then it will compare the current worst student and the new resident and see which one is worse and push in the new resident if it's better
 func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 
 	residentID := resident.residentID
 
+	//If the resident isn't in the program's ROL then they aren't accepted
 	if !slices.Contains(program.rol, residentID) {
 		return 0, false
 	}
 
 	//If there is available quota
 	if program.nPositions > len(h.theListHeap) {
+
+		//Gets the index of where the new resident will be at
 		currentIndex := len(h.theListHeap)
 		var parent int
 		var worseRank int
 		h.theListHeap = append(h.theListHeap, residentID)
 
+		//Does an up-heap and compares the child to its parents
 		for {
 
 			parent = h.theListHeap[int((currentIndex-1)/2)]
 
+			//Whoever has the worse rank will be given to worseRank
 			worseRank = compareTwoRanks(parent, residentID, program.rol)
 
-			//if
+			//If the worseRank was the residentID then they will switch with the parent, otherwise, it will break the while loop
 			if worseRank != parent {
 				h.theListHeap[currentIndex] = parent
 				currentIndex = int((currentIndex - 1) / 2)
@@ -77,14 +87,21 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 		return 0, false
 
 	} else {
+		//If the quota has been reached
+
+		//Gets the lowest ranked resident which is at the top of the heap
 		currentLowestResident := h.theListHeap[0]
+
+		//Compares the top of the heap with the new resident
 		currentLowestResident = compareTwoRanks(currentLowestResident, residentID, program.rol)
 
 		//The lowest id is the previous top of the heap
-		//-------------------------------------------MAKE SURE TO CHANGE THE MATCHED PROGRAM FOR THIS
+
+		//If the resident is higher on the ROL then the current worst person in the heap
 		if currentLowestResident != residentID {
 			h.theListHeap[0] = residentID
 
+			//Since we switched the top of the heap with something else, we do a downheap
 			h.downHeap(0, program, len(h.theListHeap))
 
 			return currentLowestResident, true
@@ -96,7 +113,10 @@ func (h *Heap) push(resident *Resident, program *Program) (int, bool) {
 
 }
 
+// A function that compares two residentIDs and see which one is lower ranked on the program's ROL
 func compareTwoRanks(residentID1 int, residentID2 int, programRol []int) int {
+
+	//Goes through the entire programROl and checks which value appears first. Then it returns the other value since it was lower ranked
 	for _, value := range programRol {
 		if residentID1 == value {
 			return residentID2
@@ -108,29 +128,36 @@ func compareTwoRanks(residentID1 int, residentID2 int, programRol []int) int {
 
 	}
 
+	//Based on our push method, this return will never happen since the residentID1 and residentID2 will always be in the program's ROL
 	return 0
 
 }
 
+// Returns the first item at the top of the heap
 func (h *Heap) pop(program *Program) int {
 
+	//If the heap is size 0, then it will return 0
 	if len(h.theListHeap) == 0 {
 		return 0
 	}
 
+	//Switches the first value with the last value
 	temp := h.theListHeap[0]
 	currentSize := len(h.theListHeap)
 	h.theListHeap[0] = h.theListHeap[currentSize-1]
 	h.theListHeap[currentSize-1] = temp
 
+	//Does the downheap
 	h.downHeap(0, program, len(h.theListHeap)-1)
 
+	//Removes the last element (the previous worst ranked residentID)
 	h.theListHeap = h.theListHeap[:len(h.theListHeap)-1]
 
 	return temp
 
 }
 
+// Does a downheap for the heap
 func (h *Heap) downHeap(currentIndex int, program *Program, currentSize int) {
 
 	currentIndex = 0
@@ -138,25 +165,29 @@ func (h *Heap) downHeap(currentIndex int, program *Program, currentSize int) {
 	var rightIndex int
 	var smallest int
 
+	//Goes from the specified currentIndex and does a downheap from there
 	for {
 
 		leftIndex = currentIndex*2 + 1
 		rightIndex = currentIndex*2 + 2
 		smallest = currentIndex
 
+		//Insures that there is a left child and then compares them
 		if leftIndex < currentSize && compareTwoRanks(h.theListHeap[leftIndex], h.theListHeap[smallest], program.rol) == h.theListHeap[leftIndex] {
 			smallest = leftIndex
 		}
 
-		//Whoever is the worse ranked resident, they will be compared to their parent to see if they need to
+		//Insures that there is a right child and compares them
 		if rightIndex < currentSize && compareTwoRanks(h.theListHeap[rightIndex], h.theListHeap[smallest], program.rol) == h.theListHeap[rightIndex] {
 			smallest = rightIndex
 		}
 
+		//If no change has been made, then break
 		if smallest == currentIndex {
 			break
 		}
 
+		//switch around the child and the parent
 		h.theListHeap[currentIndex], h.theListHeap[smallest] = h.theListHeap[smallest], h.theListHeap[currentIndex]
 
 		currentIndex = smallest
@@ -165,6 +196,7 @@ func (h *Heap) downHeap(currentIndex int, program *Program, currentSize int) {
 
 }
 
+// Peeks at the very top of the heap
 func (h *Heap) peek() (int, bool) {
 	if len(h.theListHeap) == 0 {
 		return 0, false
