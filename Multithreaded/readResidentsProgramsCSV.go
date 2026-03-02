@@ -14,6 +14,7 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+	"time"
 )
 
 // REMOVE FOR SINGLE THREADED
@@ -482,12 +483,16 @@ func main() {
 
 	var wg sync.WaitGroup
 
+	start := time.Now()
+
 	for value := range residents {
 		wg.Add(1)
 		go offer(value, residents, programs, &wg)
 	}
 
 	wg.Wait()
+
+	end := time.Now()
 
 	// sort alphabetically
 	var residentList []*Resident
@@ -502,7 +507,6 @@ func main() {
 		return residentList[i].lastname < residentList[j].lastname
 	})
 
-	fmt.Print("----------------------------------------------------\n")
 	fmt.Println("lastname, firstname, residentID, programID, name")
 
 	unmatchedCounter := 0
@@ -533,5 +537,6 @@ func main() {
 
 	fmt.Printf("\nNumber of unmatched residents: %d\n", unmatchedCounter)
 	fmt.Printf("Number of positions available: %d", positionsLeft)
+	fmt.Printf("\nExecution time: %s", end.Sub(start))
 
 }
