@@ -406,11 +406,9 @@ func evaluate(resId int, progId string, residents map[int]*Resident, programs ma
 	// lock before changing shared data
 	mu.Lock()
 	displacedId, wasDisplaced := prog.selectedResidents.push(res, prog)
-	mu.Unlock()
 
 	// new resident accepted, removed res tries next program
 	if wasDisplaced {
-		mu.Lock()
 		res.matchedProgram = progId
 		residents[displacedId].matchedProgram = ""
 		mu.Unlock()
@@ -419,7 +417,6 @@ func evaluate(resId int, progId string, residents map[int]*Resident, programs ma
 
 	} else {
 		// check inside lock
-		mu.Lock()
 		alreadyMatched := res.matchedProgram == progId
 		mu.Unlock()
 
